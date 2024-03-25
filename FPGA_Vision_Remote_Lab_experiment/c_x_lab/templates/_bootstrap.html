@@ -1,0 +1,267 @@
+<!DOCTYPE html>
+<html lang="{{ language or 'en' }}">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+    <title>{{ title or 'FPGA Vision' }}</title>
+
+    <link rel="stylesheet" type="text/css" href="//maxcdn.bootstrapcdn.com/bootstrap/3.3.2/css/bootstrap.min.css"/>
+    <style>
+        /* We'll use this class to hide some contents */
+        .hidden {
+            display: none;
+        }
+
+        #input_img {
+            border-width:5px;
+            border-style:solid;
+            border-color: #ffffff;
+            cursor: pointer;
+            transition: 0.3s;
+        }
+
+        #input_img:hover {
+            border-width:5px;
+            border-style:groove;
+            border-color: #357ebd;
+        }
+
+        board_img {
+            margin-top: 50px;
+        }
+
+        #output_img {
+            border-width:5px;
+            border-style:solid;
+            border-color: #ffffff;
+            cursor: pointer;
+            transition: 0.3s;
+        }
+
+        #output_img:hover {
+            border-width:5px;
+            border-style:groove;
+            border-color: #357ebd;
+        }
+
+        /* The Modal (background) */
+        .modal {
+            display: none; /* Hidden by default */
+            position: fixed; /* Stay in place */
+            z-index: 1; /* Sit on top */
+            padding-top: 50px; /* Location of the box */
+            left: 0;
+            top: 0;
+            width: 100%; /* Full width */
+            height: 100%; /* Full height */
+            overflow: auto; /* Enable scroll if needed */
+            background-color: rgb(0,0,0); /* Fallback color */
+            background-color: rgba(0,0,0,0.7); /* Black w/ opacity */
+        }
+
+        /* Modal Content (image) */
+        .modal-content {
+            margin: auto;
+            display: block;
+            width: 100%;
+            max-width: 1280px;
+        }
+
+        /* Caption of Modal Image */
+        #caption {
+            margin: auto;
+            display: block;
+            width: 100%;
+            max-width: 1280px;
+            text-align: center;
+            color: #ccc;
+            padding: 10px 0;
+            height: 150px;
+        }
+
+        /* Add Animation */
+        .modal-content, #caption {    
+            -webkit-animation-name: zoom;
+            -webkit-animation-duration: 0.6s;
+            animation-name: zoom;
+            animation-duration: 0.6s;
+        }
+
+        @-webkit-keyframes zoom {
+            from {-webkit-transform: scale(0)} 
+            to {-webkit-transform: scale(1)}
+        }
+
+        @keyframes zoom {
+            from {transform: scale(0.1)} 
+            to {transform: scale(1)}
+        }
+
+        /* The Close Button */
+        .close {
+            position: absolute;
+            top: 15px;
+            right: 35px;
+            color: #f1f1f1;
+            font-size: 40px;
+            font-weight: bold;
+            transition: 0.3s;
+        }
+
+        .close:hover,
+        .close:focus {
+            color: #bbb;
+            text-decoration: none;
+            cursor: pointer;
+        }
+
+        /* 100% Image Width on Smaller Screens */
+        @media only screen and (max-width: 700px){
+            .modal-content {
+                width: 100%;
+            }
+        }
+
+        /* Three image containers (use 25% for four, and 50% for two, etc) */
+        .column_img1 {
+          float: left;
+          width: 440;
+          padding: 0px;
+        }
+        .column_img2 {
+          float: left;
+          width: 240;
+          padding: 0px;
+          margin-top: 50px
+        }
+
+        /* Clear floats after image containers */
+        .row_img::after {
+          content: "";
+          clear: both;
+          display: table;
+        }
+
+
+        .output_container {
+            position: relative;
+        }
+
+        .ov_center {
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            opacity: 0;
+            font-size: 18px;
+            color: #FFFFFF;
+            text-shadow: 2px 2px 4px #000000;
+        }
+
+        imgage { 
+            opacity: 0.3;
+        }
+
+        .timer
+        {
+            margin-bottom: 10px;
+
+            font-size: 1.6em;
+            font-family: "Times New Roman", Times, serif;
+            color: #222;
+            text-shadow: 1px 3px 5px #555;
+
+            width: auto;
+
+            padding: 4px 8px 4px 8px;
+            background-color: rgba(210, 210, 210, 0.5);
+            display: inline-block;
+            border-radius: 6px;
+            border: 2px solid #444;
+            box-shadow: 2px 2px 10px 2px #222;
+
+            z-index: 100;
+        }
+
+        .onoffswitch {
+            position: relative; width: 60px;
+            -webkit-user-select:none; -moz-user-select:none; -ms-user-select: none;
+        }
+        .onoffswitch-checkbox {
+            display: none;
+        }
+        .onoffswitch-label {
+            display: block; overflow: hidden; cursor: pointer;
+            border: 2px solid #357ebd; border-radius: 8px;
+        }
+        .onoffswitch-inner {
+            display: block; width: 200%; margin-left: -100%;
+            transition: margin 0.3s ease-in 0s;
+        }
+        .onoffswitch-inner:before, .onoffswitch-inner:after {
+            display: block; float: left; width: 50%; height: 19px; padding: 2; line-height: 19px;
+            font-size: 14px; color: white; font-weight: bold;
+            box-sizing: border-box;
+        }
+        .onoffswitch-inner:before {
+            content: "ON";
+            padding-left: 10px;
+            background-color: #428bca; color: #FFFFFF;
+            text-align: left;
+        }
+        .onoffswitch-inner:after {
+            content: "OFF";
+            padding-right: 5px;
+            background-color: #EEEEEE; color: #999999;
+            text-align: right;
+        }
+        .onoffswitch-switch {
+            display: block; width: 18px; margin: 2.5px;
+            background: #9bc2e4;
+            position: absolute; top: 0; bottom: 0; right: 37px;
+            border: 2px solid #357ebd; border-radius: 8px;
+            transition: all 0.3s ease-in 0s; 
+        }
+        .onoffswitch-checkbox:checked + .onoffswitch-label .onoffswitch-inner {
+            margin-left: 0;
+        }
+        .onoffswitch-checkbox:checked + .onoffswitch-label .onoffswitch-switch {
+            right: 0px; 
+		}
+        .onoffswitch-checkbox:disabled + .onoffswitch-label .onoffswitch-switch {
+            background-color: #9bc2e4;
+
+        }
+    </style>
+
+
+    <!-- Bootstrap -->
+    <!-- Latest compiled and minified CSS -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+    <!-- Optional theme -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap-theme.min.css" integrity="sha384-rHyoN1iRsVXV4nD0JutlnGaslCJuC7uwjduW9SVrLvRYooPp2bWYgmgJQIXwl/Sp" crossorigin="anonymous">
+
+    <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
+      <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+
+    {% block header %}
+    {% endblock %}
+  </head>
+  <body>
+    {% block body %}
+    {% endblock %}
+
+    <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+    <!-- Include all compiled plugins (below), or include individual files as needed -->
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
+    {% block scripts %}
+    {% endblock %}
+  </body>
+</html>

@@ -1,0 +1,213 @@
+{% extends "_bootstrap.html" %}
+
+{% block body %}
+    {{ super() }}
+
+    <div class="container">
+        <div class="row">
+            <h1>Welcome to <strong>the FPGA Vision Remote Lab</strong>!</h1>
+            {% if resource %}
+            <h2>Resource: {{ resource }}</h2>
+            {% endif %}
+        </div>
+        <br>
+        {#
+            If the user refreshes the website AFTER the time...
+        #}
+        {% if not weblab_user.active %}
+            <div class="row">
+                <div class="alert alert-danger col-md-6 col-md-offset-3">
+                    <div class="text-center">
+                        <h3>Your session is expired</h3>
+                    </div>
+
+                    <p>However, given that in <tt>views.py</tt> the view <tt>index</tt> is using <tt>@requires_login</tt> instead of <tt>@requires_active</tt>, the user can still access the lab</p>
+                    <br>
+                    <div class="text-center">
+                        <a class="btn btn-danger" href="{{ weblab_user.back }}">Go back</a>
+                    </div>
+                </div>
+            </div>
+        {% else %}
+            <div class="row">
+                <div class="pull-right">
+                    <a class="btn btn-warning" href="javascript:logout()">Log out</a>
+                    <br><br>
+                </div>
+            </div>
+        {% endif %}
+
+
+        <div class="row">
+            <p>This is just an example laboratory using <a href="https://developers.labsland.com/labdiscoverylib/">labdiscoverylib</a>. </p>
+            <!-- <p>Time: <span id="timer"></span>. -->
+            <p id="back-url" style="display: none">Go back to the previous page: <a href="{{ weblab_user.back }}">{{ weblab_user.back }}</a></p>
+        </div>
+        <br><br>
+
+        <!-- <div id="panel"> -->
+            <div class="row">
+                <div class="container">
+                           
+                    <div id="main_block" class="text-center">
+                        <hr />
+                        <!--  -->
+                        <div class="container-fluid">
+                            <div class="row" style="padding: 10px 5px 20px">
+                                <div class = "col-sm-12 wl-vertical-center" style="text-align: left; font-size: 18px">
+                                    <b>Binary for FPGA:</b>
+                                </div>
+                                <div class = "col-sm-4 wl-vertical-center" style="text-align: left">
+                                    <form method=post enctype=multipart/form-data href="javascript:fpga_input_field()" ></form>
+                                    <div id="fpga_file_div"></div>
+                                </div>
+                                <div class = "col-sm-8 wl-vertical-center">
+                                    <button class="btn btn-primary btn-block btn-lg" type="button" id="bitfile_button">Upload FPGA binary and start experiment (COMING SOON)</button>
+                                </div>
+                            </div>
+                        </div>
+                        
+                        <h3>FPGA Core Current:</h3>
+                        <h1><b> <font color="red">
+                        <span id="current_response"></span></font></h1>
+                        (Core Supply Voltage is <span id="core_voltage"></span>) </b>
+        
+                        <div class="container-fluid">
+                            <div class="row" style="margin-top: 20px">
+                                <div class = "col-sm-5" style="text-align: center; word-spacing: 10px">
+                                    <button class="btn btn-primary" type="button" id="image_first_button"><b><<</b></button> <button class="btn btn-primary" type="button" id="image_last_button"><b><</b></button> 
+                                    <b> Select Input Image </b> 
+                                    <button class="btn btn-primary" type="button" id="image_next_button"><b>></b></button> <button class="btn btn-primary" type="button" id="image_end_button"><b>>></b></button></p>
+                                </div>
+                                
+                                <div class = "col-sm-2">
+                                </div>
+        
+                                <div class = "col-sm-5">
+                                </div>
+        
+                            </div>
+                        </div>
+        
+                        <div class="row_img">
+                            <div class="column_img1">
+                                <img onclick="window.open(this.src)" src="http://10.30.200.157/labfiles/images/street_0.jpg" name="input_img" id="input_img" border="0" width="440" alt="Motorway in Germany" title="Click on input image to view in full resolution" />
+                            </div>
+                            <div class="column_img2">
+                                <img src="http://10.30.200.157/labfiles/Logos/EduPow_CX.jpg" id="board_img" border="0" width="240" alt="Cyclone IV/V" />
+                                <pre><span id="fpga_response"></span></pre>
+                            </div>
+                            <div class="column_img1">
+                                <div class="output_container">
+                                    <img onclick="window.open(this.src)" src="http://10.30.200.157/labfiles/output_images/image_no_experiment.jpg" name="output_img" id="output_img" border="0" width="440" alt="Output image" title="Click on output image to view in full resolution" />
+                                    <div class="ov_center" id = "ov_img">working...</div>
+                                </div>
+                            </div>
+                        </div>
+        
+                        <!-- The Modal -->
+                        <div id="myModal" class="modal">
+                          <span class="close">×</span>
+                          <img class="modal-content" id="img01">
+                          <div id="caption"></div>
+                        </div>
+        
+                        <div class="container-fluid">
+                            <div class="row" style="padding: 10px 5px 20px">
+                                <div class = "col-sm-4" style="text-align: left">
+                                    <div id="img_file_div"></div>
+                                    <p align="left"><button class="btn btn-primary btn-block" type="button" id="imgfile_button">Upload your own input image now (COMING SOON)</button></p>
+                                </div>
+                                
+                                <div class = "col-sm-4" style="text-align: center">
+        
+                                    <div class = "col-sm-6" style="text-align: right">
+                                        <p>enable_in(0) *</p>
+                                        <p>enable_in(1) *</p>
+                                        <p>enable_in(2) *</p>
+                                    </div>
+        
+                                    <div class = "col-sm-6" style="text-align: left">
+                                        <div class="onoffswitch">
+                                            <input type="checkbox" name="onoffswitch0" class="onoffswitch-checkbox" id="myonoffswitch0" onchange="sw0()">
+                                            <label class="onoffswitch-label" for="myonoffswitch0">
+                                                <span class="onoffswitch-inner"></span>
+                                                <span class="onoffswitch-switch"></span>
+                                            </label>
+                                        </div>
+        
+                                        <div class="onoffswitch">
+                                            <input type="checkbox" name="onoffswitch1" class="onoffswitch-checkbox" id="myonoffswitch1" onchange="sw1()">
+                                            <label class="onoffswitch-label" for="myonoffswitch1">
+                                                <span class="onoffswitch-inner"></span>
+                                                <span class="onoffswitch-switch"></span>
+                                            </label>
+                                        </div>
+        
+                                        <div class="onoffswitch">
+                                            <input type="checkbox" name="onoffswitch2" class="onoffswitch-checkbox" id="myonoffswitch2" onchange="sw2()">
+                                            <label class="onoffswitch-label" for="myonoffswitch2">
+                                                <span class="onoffswitch-inner"></span>
+                                                <span class="onoffswitch-switch"></span>
+                                            </label>
+                                        </div>
+                                    </div>
+        
+                                </div>
+        
+                                <div class = "col-sm-4" style="text-align: right">
+                                    <div class="timer" id="timer"></div>
+                                    <br><br>*currently inactive - coming soon
+                                </div>
+        
+                            </div>
+                        </div>
+        
+                        <div class="container-fluid">
+                            <div class="row" style="padding: 10px 5px 20px">
+                                <div class = "col-sm-4 wl-vertical-center" style="text-align: left">
+                                    <button class="btn btn-primary btn-block" type="button" id="bitfile1_button">Start Experiment 1: Inverting Signals</button>
+                                </div>
+                                <div class = "col-sm-4 wl-vertical-center" style="text-align: center">
+                                    <button class="btn btn-primary btn-block" type="button" id="bitfile2_button">Start Experiment 2: Sharpening Filter</button>
+                                </div>
+                                <div class = "col-sm-4 wl-vertical-center" style="text-align: right">
+                                    <button class="btn btn-primary btn-block" type="button" id="bitfile3_button">Start Experiment 3: Lane Detection</button>
+                                </div>
+                            </div>
+                        </div>
+        
+                        <p> <pre><span id="bitfileResponse"></span></pre></p>
+                        <p> <pre><span id="fileResponse"></span></pre></p>
+                        <p> <pre><span id="response"></span></pre></p>
+                        <p> <pre><span id="am_response"></span></pre></p>
+            </div>
+    </div>
+
+{% endblock %}
+
+{% block scripts %}
+    {# This comes by default from labdiscoverylib, while it requires to have JQuery previously imported #}
+    {{ weblab_poll_script() }}
+
+    <script>
+        var CSRF = {{ session['csrf']|tojson }};
+
+        var currentTime = Math.round({{ weblab_user.time_left }});
+        var STATUS_URL = "{{ url_for('.status') }}";
+        var LOGOUT_URL = "{{ url_for('.logout_view') }}";
+        var MEASURE_URL = "{{ url_for('.measure_current') }}";
+        var INVERT_PROG_URL = "{{ url_for('.prog_invert') }}";
+        var FILTER_PROG_URL = "{{ url_for('.prog_filter') }}";
+        var EDGE_PROG_URL = "{{ url_for('.prog_edge') }}";
+        var FPGA_URL = "{{ url_for('.fpga') }}";
+        var VIDEO_URL = "{{ url_for('.video_feed') }}";
+        var IMG_HOME = "{{ url_for('.img_home') }}";
+        var IMG_LAST = "{{ url_for('.img_last') }}";
+        var IMG_NEXT = "{{ url_for('.img_next') }}";
+        var IMG_END = "{{ url_for('.img_end') }}";
+        var running = currentTime > 0;
+    </script>
+
+    <script src="{{ url_for('static', filename="js/lab.js") }}"></script>
+{% endblock %}
