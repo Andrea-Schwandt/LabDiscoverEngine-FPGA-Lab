@@ -1,0 +1,13 @@
+# This file contains the laboratory resources. For example, you may have 3 copies of
+# the same laboratory. In LDE, we call this 3 resources of one laboratory. Therefore,
+# here you can specify and document the particular resources (the URL, login, password,
+# healthchecks of the resource, etc). Later, in the laboratories.yml file you will be
+# able to specify the name of the laboratory, which resources are assigned to what
+# laboratory, and information that the user should see (e.g., the image, category, etc.)
+
+FPGA-1:
+  # Include the URL and credentials of the remote laboratory
+  url: http://10.30.200.157:5000/foo
+  login: lde # If always the same use DEFAULT_RESOURCE_LOGIN in credentials.yml
+  password: password # If always the same use DEFAULT_RESOURCE_PASSWORD in credentials.yml
+  features: [feature1, feature2] # So we can reserve with a particular feature

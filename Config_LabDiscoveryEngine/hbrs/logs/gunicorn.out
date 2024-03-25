@@ -1,0 +1,544 @@
+OrderedDict([('de', 'Deutsch'), ('en', 'English'), ('es', 'Español'), ('uk', 'Українська')])
+OrderedDict([('de', 'Deutsch'), ('en', 'English'), ('es', 'Español'), ('uk', 'Українська')])
+OrderedDict([('de', 'Deutsch'), ('en', 'English'), ('es', 'Español'), ('uk', 'Українська')])
+OrderedDict([('de', 'Deutsch'), ('en', 'English'), ('es', 'Español'), ('uk', 'Українська')])
+{'dummy': Laboratory(identifier='dummy', display_name='Dummy Lab', description=None, category='Dummy laboratories', keywords=[], max_time=300, resources={'dummy-1', 'dummy-2'}, image='https://example.com/wherever/is/your/logo.jpg', features={'feature3', 'feature1', 'feature2'})}
+OrderedDict([('de', 'Deutsch'), ('en', 'English'), ('es', 'Español'), ('uk', 'Українська')])
+OrderedDict([('de', 'Deutsch'), ('en', 'English'), ('es', 'Español'), ('uk', 'Українська')])
+OrderedDict([('de', 'Deutsch'), ('en', 'English'), ('es', 'Español'), ('uk', 'Українська')])
+OrderedDict([('de', 'Deutsch'), ('en', 'English'), ('es', 'Español'), ('uk', 'Українська')])
+OrderedDict([('de', 'Deutsch'), ('en', 'English'), ('es', 'Español'), ('uk', 'Українська')])
+{'dummy': Laboratory(identifier='dummy', display_name='Dummy Lab', description=None, category='Dummy laboratories', keywords=[], max_time=300, resources={'dummy-1', 'dummy-2'}, image='https://example.com/wherever/is/your/logo.jpg', features={'feature3', 'feature1', 'feature2'})}
+OrderedDict([('de', 'Deutsch'), ('en', 'English'), ('es', 'Español'), ('uk', 'Українська')])
+OrderedDict([('de', 'Deutsch'), ('en', 'English'), ('es', 'Español'), ('uk', 'Українська')])
+OrderedDict([('de', 'Deutsch'), ('en', 'English'), ('es', 'Español'), ('uk', 'Українська')])
+OrderedDict([('de', 'Deutsch'), ('en', 'English'), ('es', 'Español'), ('uk', 'Українська')])
+OrderedDict([('de', 'Deutsch'), ('en', 'English'), ('es', 'Español'), ('uk', 'Українська')])
+OrderedDict([('de', 'Deutsch'), ('en', 'English'), ('es', 'Español'), ('uk', 'Українська')])
+OrderedDict([('de', 'Deutsch'), ('en', 'English'), ('es', 'Español'), ('uk', 'Українська')])
+OrderedDict([('de', 'Deutsch'), ('en', 'English'), ('es', 'Español'), ('uk', 'Українська')])
+OrderedDict([('de', 'Deutsch'), ('en', 'English'), ('es', 'Español'), ('uk', 'Українська')])
+OrderedDict([('de', 'Deutsch'), ('en', 'English'), ('es', 'Español'), ('uk', 'Українська')])
+OrderedDict([('de', 'Deutsch'), ('en', 'English'), ('es', 'Español'), ('uk', 'Українська')])
+OrderedDict([('de', 'Deutsch'), ('en', 'English'), ('es', 'Español'), ('uk', 'Українська')])
+OrderedDict([('de', 'Deutsch'), ('en', 'English'), ('es', 'Español'), ('uk', 'Українська')])
+OrderedDict([('de', 'Deutsch'), ('en', 'English'), ('es', 'Español'), ('uk', 'Українська')])
+OrderedDict([('de', 'Deutsch'), ('en', 'English'), ('es', 'Español'), ('uk', 'Українська')])
+{'dummy': Laboratory(identifier='dummy', display_name='Dummy Lab', description=None, category='Dummy laboratories', keywords=[], max_time=300, resources={'dummy-1', 'dummy-2'}, image='https://example.com/wherever/is/your/logo.jpg', features={'feature2', 'feature1', 'feature3'})}
+OrderedDict([('de', 'Deutsch'), ('en', 'English'), ('es', 'Español'), ('uk', 'Українська')])
+OrderedDict([('de', 'Deutsch'), ('en', 'English'), ('es', 'Español'), ('uk', 'Українська')])
+OrderedDict([('de', 'Deutsch'), ('en', 'English'), ('es', 'Español'), ('uk', 'Українська')])
+OrderedDict([('de', 'Deutsch'), ('en', 'English'), ('es', 'Español'), ('uk', 'Українська')])
+OrderedDict([('de', 'Deutsch'), ('en', 'English'), ('es', 'Español'), ('uk', 'Українська')])
+OrderedDict([('de', 'Deutsch'), ('en', 'English'), ('es', 'Español'), ('uk', 'Українська')])
+OrderedDict([('de', 'Deutsch'), ('en', 'English'), ('es', 'Español'), ('uk', 'Українська')])
+OrderedDict([('de', 'Deutsch'), ('en', 'English'), ('es', 'Español'), ('uk', 'Українська')])
+OrderedDict([('de', 'Deutsch'), ('en', 'English'), ('es', 'Español'), ('uk', 'Українська')])
+{'dummy': Laboratory(identifier='dummy', display_name='Dummy Lab', description=None, category='Dummy laboratories', keywords=[], max_time=300, resources={'dummy-2', 'dummy-1'}, image='https://example.com/wherever/is/your/logo.jpg', features={'feature3', 'feature2', 'feature1'})}
+{'dummy': Laboratory(identifier='dummy', display_name='Dummy Lab', description=None, category='Dummy laboratories', keywords=[], max_time=300, resources={'dummy-2', 'dummy-1'}, image='https://example.com/wherever/is/your/logo.jpg', features={'feature3', 'feature2', 'feature1'})}
+OrderedDict([('de', 'Deutsch'), ('en', 'English'), ('es', 'Español'), ('uk', 'Українська')])
+OrderedDict([('de', 'Deutsch'), ('en', 'English'), ('es', 'Español'), ('uk', 'Українська')])
+OrderedDict([('de', 'Deutsch'), ('en', 'English'), ('es', 'Español'), ('uk', 'Українська')])
+OrderedDict([('de', 'Deutsch'), ('en', 'English'), ('es', 'Español'), ('uk', 'Українська')])
+OrderedDict([('de', 'Deutsch'), ('en', 'English'), ('es', 'Español'), ('uk', 'Українська')])
+OrderedDict([('de', 'Deutsch'), ('en', 'English'), ('es', 'Español'), ('uk', 'Українська')])
+{'dummy': Laboratory(identifier='dummy', display_name='Dummy Lab', description=None, category='Dummy laboratories', keywords=[], max_time=300, resources={'dummy-2', 'dummy-1'}, image='https://example.com/wherever/is/your/logo.jpg', features={'feature3', 'feature2', 'feature1'})}
+OrderedDict([('de', 'Deutsch'), ('en', 'English'), ('es', 'Español'), ('uk', 'Українська')])
+OrderedDict([('de', 'Deutsch'), ('en', 'English'), ('es', 'Español'), ('uk', 'Українська')])
+OrderedDict([('de', 'Deutsch'), ('en', 'English'), ('es', 'Español'), ('uk', 'Українська')])
+OrderedDict([('de', 'Deutsch'), ('en', 'English'), ('es', 'Español'), ('uk', 'Українська')])
+{'dummy': Laboratory(identifier='dummy', display_name='Dummy Lab', description=None, category='Dummy laboratories', keywords=[], max_time=300, resources={'dummy-1', 'dummy-2'}, image='https://example.com/wherever/is/your/logo.jpg', features={'feature1', 'feature2', 'feature3'})}
+OrderedDict([('de', 'Deutsch'), ('en', 'English'), ('es', 'Español'), ('uk', 'Українська')])
+OrderedDict([('de', 'Deutsch'), ('en', 'English'), ('es', 'Español'), ('uk', 'Українська')])
+{'dummy': Laboratory(identifier='dummy', display_name='Dummy Lab', description=None, category='Dummy laboratories', keywords=[], max_time=300, resources={'dummy-1', 'dummy-2'}, image='https://example.com/wherever/is/your/logo.jpg', features={'feature1', 'feature2', 'feature3'})}
+{'dummy': Laboratory(identifier='dummy', display_name='Dummy Lab', description=None, category='Dummy laboratories', keywords=[], max_time=300, resources={'dummy-1', 'dummy-2'}, image='https://example.com/wherever/is/your/logo.jpg', features={'feature1', 'feature2', 'feature3'})}
+{'dummy': Laboratory(identifier='dummy', display_name='Dummy Lab', description=None, category='Dummy laboratories', keywords=[], max_time=300, resources={'dummy-1', 'dummy-2'}, image='https://example.com/wherever/is/your/logo.jpg', features={'feature1', 'feature2', 'feature3'})}
+OrderedDict([('de', 'Deutsch'), ('en', 'English'), ('es', 'Español'), ('uk', 'Українська')])
+OrderedDict([('de', 'Deutsch'), ('en', 'English'), ('es', 'Español'), ('uk', 'Українська')])
+OrderedDict([('de', 'Deutsch'), ('en', 'English'), ('es', 'Español'), ('uk', 'Українська')])
+OrderedDict([('de', 'Deutsch'), ('en', 'English'), ('es', 'Español'), ('uk', 'Українська')])
+{'dummy': Laboratory(identifier='dummy', display_name='Dummy Lab', description=None, category='Dummy laboratories', keywords=[], max_time=300, resources={'dummy-1', 'dummy-2'}, image='https://example.com/wherever/is/your/logo.jpg', features={'feature3', 'feature2', 'feature1'})}
+OrderedDict([('de', 'Deutsch'), ('en', 'English'), ('es', 'Español'), ('uk', 'Українська')])
+{'dummy': Laboratory(identifier='dummy', display_name='Dummy Lab', description=None, category='Dummy laboratories', keywords=[], max_time=300, resources={'dummy-2', 'dummy-1'}, image='https://example.com/wherever/is/your/logo.jpg', features={'feature2', 'feature1', 'feature3'})}
+{'dummy': Laboratory(identifier='dummy', display_name='Dummy Lab', description=None, category='Dummy laboratories', keywords=[], max_time=300, resources={'dummy-2', 'dummy-1'}, image='https://example.com/wherever/is/your/logo.jpg', features={'feature2', 'feature1', 'feature3'})}
+{'dummy': Laboratory(identifier='dummy', display_name='Dummy Lab', description=None, category='Dummy laboratories', keywords=[], max_time=300, resources={'dummy-2', 'dummy-1'}, image='https://example.com/wherever/is/your/logo.jpg', features={'feature2', 'feature1', 'feature3'})}
+OrderedDict([('de', 'Deutsch'), ('en', 'English'), ('es', 'Español'), ('uk', 'Українська')])
+OrderedDict([('de', 'Deutsch'), ('en', 'English'), ('es', 'Español'), ('uk', 'Українська')])
+OrderedDict([('de', 'Deutsch'), ('en', 'English'), ('es', 'Español'), ('uk', 'Українська')])
+{'dummy': Laboratory(identifier='dummy', display_name='Dummy Lab', description=None, category='Dummy laboratories', keywords=[], max_time=300, resources={'dummy-2', 'dummy-1'}, image='https://example.com/wherever/is/your/logo.jpg', features={'feature2', 'feature1', 'feature3'})}
+OrderedDict([('de', 'Deutsch'), ('en', 'English'), ('es', 'Español'), ('uk', 'Українська')])
+{'dummy': Laboratory(identifier='dummy', display_name='Dummy Lab', description=None, category='Dummy laboratories', keywords=[], max_time=300, resources={'dummy-1'}, image='https://example.com/wherever/is/your/logo.jpg', features={'feature1', 'feature2'})}
+OrderedDict([('de', 'Deutsch'), ('en', 'English'), ('es', 'Español'), ('uk', 'Українська')])
+{'dummy': Laboratory(identifier='dummy', display_name='Dummy Lab', description=None, category='Dummy laboratories', keywords=[], max_time=300, resources={'dummy-1'}, image='https://example.com/wherever/is/your/logo.jpg', features={'feature1', 'feature2'})}
+OrderedDict([('de', 'Deutsch'), ('en', 'English'), ('es', 'Español'), ('uk', 'Українська')])
+OrderedDict([('de', 'Deutsch'), ('en', 'English'), ('es', 'Español'), ('uk', 'Українська')])
+OrderedDict([('de', 'Deutsch'), ('en', 'English'), ('es', 'Español'), ('uk', 'Українська')])
+OrderedDict([('de', 'Deutsch'), ('en', 'English'), ('es', 'Español'), ('uk', 'Українська')])
+OrderedDict([('de', 'Deutsch'), ('en', 'English'), ('es', 'Español'), ('uk', 'Українська')])
+OrderedDict([('de', 'Deutsch'), ('en', 'English'), ('es', 'Español'), ('uk', 'Українська')])
+{'dummy': Laboratory(identifier='dummy', display_name='Dummy Lab', description=None, category='Dummy laboratories', keywords=[], max_time=300, resources={'dummy-1'}, image='https://example.com/wherever/is/your/logo.jpg', features={'feature1', 'feature2'})}
+{'dummy': Laboratory(identifier='dummy', display_name='Dummy Lab', description=None, category='Dummy laboratories', keywords=[], max_time=300, resources={'dummy-1'}, image='https://example.com/wherever/is/your/logo.jpg', features={'feature2', 'feature1'})}
+OrderedDict([('de', 'Deutsch'), ('en', 'English'), ('es', 'Español'), ('uk', 'Українська')])
+OrderedDict([('de', 'Deutsch'), ('en', 'English'), ('es', 'Español'), ('uk', 'Українська')])
+{'dummy': Laboratory(identifier='dummy', display_name='Dummy Lab', description=None, category='Dummy laboratories', keywords=[], max_time=300, resources={'dummy-1'}, image='https://example.com/wherever/is/your/logo.jpg', features={'feature2', 'feature1'})}
+{'dummy': Laboratory(identifier='dummy', display_name='Dummy Lab', description=None, category='Dummy laboratories', keywords=[], max_time=300, resources={'dummy-1'}, image='https://example.com/wherever/is/your/logo.jpg', features={'feature2', 'feature1'})}
+OrderedDict([('de', 'Deutsch'), ('en', 'English'), ('es', 'Español'), ('uk', 'Українська')])
+{'dummy': Laboratory(identifier='dummy', display_name='Dummy Lab', description=None, category='Dummy laboratories', keywords=[], max_time=300, resources={'dummy-1'}, image='https://example.com/wherever/is/your/logo.jpg', features={'feature1', 'feature2'})}
+{'dummy': Laboratory(identifier='dummy', display_name='Dummy Lab', description=None, category='Dummy laboratories', keywords=[], max_time=300, resources={'dummy-1'}, image='https://example.com/wherever/is/your/logo.jpg', features={'feature1', 'feature2'})}
+{'dummy': Laboratory(identifier='dummy', display_name='Dummy Lab', description=None, category='Dummy laboratories', keywords=[], max_time=300, resources={'dummy-1'}, image='https://example.com/wherever/is/your/logo.jpg', features={'feature1', 'feature2'})}
+{'dummy': Laboratory(identifier='dummy', display_name='Dummy Lab', description=None, category='Dummy laboratories', keywords=[], max_time=300, resources={'dummy-1'}, image='https://example.com/wherever/is/your/logo.jpg', features={'feature1', 'feature2'})}
+OrderedDict([('de', 'Deutsch'), ('en', 'English'), ('es', 'Español'), ('uk', 'Українська')])
+{'dummy': Laboratory(identifier='dummy', display_name='Dummy Lab', description=None, category='Dummy laboratories', keywords=[], max_time=300, resources={'dummy-1'}, image='https://example.com/wherever/is/your/logo.jpg', features={'feature1', 'feature2'})}
+OrderedDict([('de', 'Deutsch'), ('en', 'English'), ('es', 'Español'), ('uk', 'Українська')])
+OrderedDict([('de', 'Deutsch'), ('en', 'English'), ('es', 'Español'), ('uk', 'Українська')])
+OrderedDict([('de', 'Deutsch'), ('en', 'English'), ('es', 'Español'), ('uk', 'Українська')])
+OrderedDict([('de', 'Deutsch'), ('en', 'English'), ('es', 'Español'), ('uk', 'Українська')])
+OrderedDict([('de', 'Deutsch'), ('en', 'English'), ('es', 'Español'), ('uk', 'Українська')])
+OrderedDict([('de', 'Deutsch'), ('en', 'English'), ('es', 'Español'), ('uk', 'Українська')])
+{'dummy': Laboratory(identifier='dummy', display_name='Dummy Lab', description=None, category='Dummy laboratories', keywords=[], max_time=300, resources={'dummy-1'}, image='https://example.com/wherever/is/your/logo.jpg', features={'feature2', 'feature1'})}
+OrderedDict([('de', 'Deutsch'), ('en', 'English'), ('es', 'Español'), ('uk', 'Українська')])
+{'dummy': Laboratory(identifier='dummy', display_name='Dummy Lab', description=None, category='Dummy laboratories', keywords=[], max_time=300, resources={'dummy-1'}, image='https://example.com/wherever/is/your/logo.jpg', features={'feature2', 'feature1'})}
+OrderedDict([('de', 'Deutsch'), ('en', 'English'), ('es', 'Español'), ('uk', 'Українська')])
+OrderedDict([('de', 'Deutsch'), ('en', 'English'), ('es', 'Español'), ('uk', 'Українська')])
+OrderedDict([('de', 'Deutsch'), ('en', 'English'), ('es', 'Español'), ('uk', 'Українська')])
+OrderedDict([('de', 'Deutsch'), ('en', 'English'), ('es', 'Español'), ('uk', 'Українська')])
+{'dummy': Laboratory(identifier='dummy', display_name='Dummy Lab', description=None, category='Dummy laboratories', keywords=[], max_time=300, resources={'dummy-1'}, image='https://example.com/wherever/is/your/logo.jpg', features={'feature2', 'feature1'})}
+{'dummy': Laboratory(identifier='dummy', display_name='Dummy Lab', description=None, category='Dummy laboratories', keywords=[], max_time=300, resources={'dummy-1'}, image='https://example.com/wherever/is/your/logo.jpg', features={'feature2', 'feature1'})}
+{'dummy': Laboratory(identifier='dummy', display_name='Dummy Lab', description=None, category='Dummy laboratories', keywords=[], max_time=300, resources={'dummy-1'}, image='https://example.com/wherever/is/your/logo.jpg', features={'feature2', 'feature1'})}
+OrderedDict([('de', 'Deutsch'), ('en', 'English'), ('es', 'Español'), ('uk', 'Українська')])
+OrderedDict([('de', 'Deutsch'), ('en', 'English'), ('es', 'Español'), ('uk', 'Українська')])
+{'dummy': Laboratory(identifier='dummy', display_name='Dummy Lab', description=None, category='Dummy laboratories', keywords=[], max_time=300, resources={'dummy-1'}, image='https://example.com/wherever/is/your/logo.jpg', features={'feature2', 'feature1'})}
+OrderedDict([('de', 'Deutsch'), ('en', 'English'), ('es', 'Español'), ('uk', 'Українська')])
+{'dummy': Laboratory(identifier='dummy', display_name='Dummy Lab', description=None, category='Dummy laboratories', keywords=[], max_time=300, resources={'dummy-1'}, image='https://example.com/wherever/is/your/logo.jpg', features={'feature2', 'feature1'})}
+OrderedDict([('de', 'Deutsch'), ('en', 'English'), ('es', 'Español'), ('uk', 'Українська')])
+OrderedDict([('de', 'Deutsch'), ('en', 'English'), ('es', 'Español'), ('uk', 'Українська')])
+{'dummy': Laboratory(identifier='dummy', display_name='Dummy Lab', description=None, category='Dummy laboratories', keywords=[], max_time=300, resources={'dummy-1'}, image='https://example.com/wherever/is/your/logo.jpg', features={'feature2', 'feature1'})}
+OrderedDict([('de', 'Deutsch'), ('en', 'English'), ('es', 'Español'), ('uk', 'Українська')])
+{'dummy': Laboratory(identifier='dummy', display_name='Dummy Lab', description=None, category='Dummy laboratories', keywords=[], max_time=300, resources={'dummy-1'}, image='https://example.com/wherever/is/your/logo.jpg', features={'feature2', 'feature1'})}
+{'dummy': Laboratory(identifier='dummy', display_name='Dummy Lab', description=None, category='Dummy laboratories', keywords=[], max_time=300, resources={'dummy-1'}, image='https://example.com/wherever/is/your/logo.jpg', features={'feature2', 'feature1'})}
+{'dummy': Laboratory(identifier='dummy', display_name='Dummy Lab', description=None, category='Dummy laboratories', keywords=[], max_time=300, resources={'dummy-1'}, image='https://example.com/wherever/is/your/logo.jpg', features={'feature2', 'feature1'})}
+OrderedDict([('de', 'Deutsch'), ('en', 'English'), ('es', 'Español'), ('uk', 'Українська')])
+OrderedDict([('de', 'Deutsch'), ('en', 'English'), ('es', 'Español'), ('uk', 'Українська')])
+OrderedDict([('de', 'Deutsch'), ('en', 'English'), ('es', 'Español'), ('uk', 'Українська')])
+OrderedDict([('de', 'Deutsch'), ('en', 'English'), ('es', 'Español'), ('uk', 'Українська')])
+OrderedDict([('de', 'Deutsch'), ('en', 'English'), ('es', 'Español'), ('uk', 'Українська')])
+OrderedDict([('de', 'Deutsch'), ('en', 'English'), ('es', 'Español'), ('uk', 'Українська')])
+{'dummy': Laboratory(identifier='dummy', display_name='Dummy Lab', description=None, category='Dummy laboratories', keywords=[], max_time=300, resources={'dummy-1'}, image='https://example.com/wherever/is/your/logo.jpg', features={'feature2', 'feature1'})}
+OrderedDict([('de', 'Deutsch'), ('en', 'English'), ('es', 'Español'), ('uk', 'Українська')])
+OrderedDict([('de', 'Deutsch'), ('en', 'English'), ('es', 'Español'), ('uk', 'Українська')])
+OrderedDict([('de', 'Deutsch'), ('en', 'English'), ('es', 'Español'), ('uk', 'Українська')])
+{'dummy': Laboratory(identifier='dummy', display_name='Dummy Lab', description=None, category='Dummy laboratories', keywords=[], max_time=300, resources={'dummy-1'}, image='https://example.com/wherever/is/your/logo.jpg', features={'feature2', 'feature1'})}
+{'dummy': Laboratory(identifier='dummy', display_name='Dummy Lab', description=None, category='Dummy laboratories', keywords=[], max_time=300, resources={'dummy-1'}, image='https://example.com/wherever/is/your/logo.jpg', features={'feature2', 'feature1'})}
+OrderedDict([('de', 'Deutsch'), ('en', 'English'), ('es', 'Español'), ('uk', 'Українська')])
+OrderedDict([('de', 'Deutsch'), ('en', 'English'), ('es', 'Español'), ('uk', 'Українська')])
+OrderedDict([('de', 'Deutsch'), ('en', 'English'), ('es', 'Español'), ('uk', 'Українська')])
+{'dummy': Laboratory(identifier='dummy', display_name='Dummy Lab', description=None, category='Dummy laboratories', keywords=[], max_time=300, resources={'dummy-1'}, image='https://example.com/wherever/is/your/logo.jpg', features={'feature1', 'feature2'})}
+OrderedDict([('de', 'Deutsch'), ('en', 'English'), ('es', 'Español'), ('uk', 'Українська')])
+OrderedDict([('de', 'Deutsch'), ('en', 'English'), ('es', 'Español'), ('uk', 'Українська')])
+{'dummy': Laboratory(identifier='dummy', display_name='Dummy Lab', description=None, category='Dummy laboratories', keywords=[], max_time=300, resources={'dummy-1'}, image='https://example.com/wherever/is/your/logo.jpg', features={'feature1', 'feature2'})}
+OrderedDict([('de', 'Deutsch'), ('en', 'English'), ('es', 'Español'), ('uk', 'Українська')])
+OrderedDict([('de', 'Deutsch'), ('en', 'English'), ('es', 'Español'), ('uk', 'Українська')])
+OrderedDict([('de', 'Deutsch'), ('en', 'English'), ('es', 'Español'), ('uk', 'Українська')])
+{'dummy': Laboratory(identifier='dummy', display_name='Dummy Lab', description=None, category='Dummy laboratories', keywords=[], max_time=300, resources={'dummy-1'}, image='https://example.com/wherever/is/your/logo.jpg', features={'feature1', 'feature2'})}
+{'dummy': Laboratory(identifier='dummy', display_name='Dummy Lab', description=None, category='Dummy laboratories', keywords=[], max_time=300, resources={'dummy-1'}, image='https://example.com/wherever/is/your/logo.jpg', features={'feature2', 'feature1'})}
+OrderedDict([('de', 'Deutsch'), ('en', 'English'), ('es', 'Español'), ('uk', 'Українська')])
+OrderedDict([('de', 'Deutsch'), ('en', 'English'), ('es', 'Español'), ('uk', 'Українська')])
+OrderedDict([('de', 'Deutsch'), ('en', 'English'), ('es', 'Español'), ('uk', 'Українська')])
+OrderedDict([('de', 'Deutsch'), ('en', 'English'), ('es', 'Español'), ('uk', 'Українська')])
+OrderedDict([('de', 'Deutsch'), ('en', 'English'), ('es', 'Español'), ('uk', 'Українська')])
+{'dummy': Laboratory(identifier='dummy', display_name='Dummy Lab', description=None, category='Dummy laboratories', keywords=[], max_time=300, resources={'dummy-1'}, image='https://example.com/wherever/is/your/logo.jpg', features={'feature2', 'feature1'})}
+OrderedDict([('de', 'Deutsch'), ('en', 'English'), ('es', 'Español'), ('uk', 'Українська')])
+{'dummy': Laboratory(identifier='dummy', display_name='Dummy Lab', description=None, category='Dummy laboratories', keywords=[], max_time=300, resources={'dummy-1'}, image='https://example.com/wherever/is/your/logo.jpg', features={'feature2', 'feature1'})}
+{'dummy': Laboratory(identifier='dummy', display_name='Dummy Lab', description=None, category='Dummy laboratories', keywords=[], max_time=300, resources={'dummy-1'}, image='https://example.com/wherever/is/your/logo.jpg', features={'feature2', 'feature1'})}
+OrderedDict([('de', 'Deutsch'), ('en', 'English'), ('es', 'Español'), ('uk', 'Українська')])
+{'dummy': Laboratory(identifier='dummy', display_name='Dummy Lab', description=None, category='Dummy laboratories', keywords=[], max_time=300, resources={'dummy-1'}, image='https://example.com/wherever/is/your/logo.jpg', features={'feature2', 'feature1'})}
+OrderedDict([('de', 'Deutsch'), ('en', 'English'), ('es', 'Español'), ('uk', 'Українська')])
+OrderedDict([('de', 'Deutsch'), ('en', 'English'), ('es', 'Español'), ('uk', 'Українська')])
+OrderedDict([('de', 'Deutsch'), ('en', 'English'), ('es', 'Español'), ('uk', 'Українська')])
+OrderedDict([('de', 'Deutsch'), ('en', 'English'), ('es', 'Español'), ('uk', 'Українська')])
+OrderedDict([('de', 'Deutsch'), ('en', 'English'), ('es', 'Español'), ('uk', 'Українська')])
+OrderedDict([('de', 'Deutsch'), ('en', 'English'), ('es', 'Español'), ('uk', 'Українська')])
+{'dummy': Laboratory(identifier='dummy', display_name='Dummy Lab', description=None, category='Dummy laboratories', keywords=[], max_time=300, resources={'dummy-1'}, image='https://example.com/wherever/is/your/logo.jpg', features={'feature2', 'feature1'})}
+{'dummy': Laboratory(identifier='dummy', display_name='Dummy Lab', description=None, category='Dummy laboratories', keywords=[], max_time=300, resources={'dummy-1'}, image='https://example.com/wherever/is/your/logo.jpg', features={'feature2', 'feature1'})}
+OrderedDict([('de', 'Deutsch'), ('en', 'English'), ('es', 'Español'), ('uk', 'Українська')])
+OrderedDict([('de', 'Deutsch'), ('en', 'English'), ('es', 'Español'), ('uk', 'Українська')])
+OrderedDict([('de', 'Deutsch'), ('en', 'English'), ('es', 'Español'), ('uk', 'Українська')])
+{'dummy': Laboratory(identifier='dummy', display_name='Dummy Lab', description=None, category='Dummy laboratories', keywords=[], max_time=300, resources={'dummy-1'}, image='https://example.com/wherever/is/your/logo.jpg', features={'feature2', 'feature1'})}
+{'dummy': Laboratory(identifier='dummy', display_name='Dummy Lab', description=None, category='Dummy laboratories', keywords=[], max_time=300, resources={'dummy-1'}, image='https://example.com/wherever/is/your/logo.jpg', features={'feature2', 'feature1'})}
+OrderedDict([('de', 'Deutsch'), ('en', 'English'), ('es', 'Español'), ('uk', 'Українська')])
+OrderedDict([('de', 'Deutsch'), ('en', 'English'), ('es', 'Español'), ('uk', 'Українська')])
+{'dummy': Laboratory(identifier='dummy', display_name='Dummy Lab', description=None, category='Dummy laboratories', keywords=[], max_time=300, resources={'dummy-1'}, image='https://example.com/wherever/is/your/logo.jpg', features={'feature2', 'feature1'})}
+OrderedDict([('de', 'Deutsch'), ('en', 'English'), ('es', 'Español'), ('uk', 'Українська')])
+{'dummy': Laboratory(identifier='dummy', display_name='Dummy Lab', description=None, category='Dummy laboratories', keywords=[], max_time=300, resources={'dummy-1'}, image='https://example.com/wherever/is/your/logo.jpg', features={'feature2', 'feature1'})}
+{'dummy': Laboratory(identifier='dummy', display_name='Dummy Lab', description=None, category='Dummy laboratories', keywords=[], max_time=300, resources={'dummy-1'}, image='https://example.com/wherever/is/your/logo.jpg', features={'feature2', 'feature1'})}
+{'dummy': Laboratory(identifier='dummy', display_name='Dummy Lab', description=None, category='Dummy laboratories', keywords=[], max_time=300, resources={'dummy-1'}, image='https://example.com/wherever/is/your/logo.jpg', features={'feature2', 'feature1'})}
+OrderedDict([('de', 'Deutsch'), ('en', 'English'), ('es', 'Español'), ('uk', 'Українська')])
+OrderedDict([('de', 'Deutsch'), ('en', 'English'), ('es', 'Español'), ('uk', 'Українська')])
+{'dummy': Laboratory(identifier='dummy', display_name='Dummy Lab', description=None, category='Dummy laboratories', keywords=[], max_time=300, resources={'dummy-1'}, image='https://example.com/wherever/is/your/logo.jpg', features={'feature2', 'feature1'})}
+{'dummy': Laboratory(identifier='dummy', display_name='Dummy Lab', description=None, category='Dummy laboratories', keywords=[], max_time=300, resources={'dummy-1'}, image='https://example.com/wherever/is/your/logo.jpg', features={'feature2', 'feature1'})}
+OrderedDict([('de', 'Deutsch'), ('en', 'English'), ('es', 'Español'), ('uk', 'Українська')])
+{'dummy': Laboratory(identifier='dummy', display_name='Dummy Lab', description=None, category='Dummy laboratories', keywords=[], max_time=300, resources={'dummy-1'}, image='https://example.com/wherever/is/your/logo.jpg', features={'feature2', 'feature1'})}
+{'dummy': Laboratory(identifier='dummy', display_name='Dummy Lab', description=None, category='Dummy laboratories', keywords=[], max_time=300, resources={'dummy-1'}, image='https://example.com/wherever/is/your/logo.jpg', features={'feature2', 'feature1'})}
+OrderedDict([('de', 'Deutsch'), ('en', 'English'), ('es', 'Español'), ('uk', 'Українська')])
+{'dummy': Laboratory(identifier='dummy', display_name='Dummy Lab', description=None, category='Dummy laboratories', keywords=[], max_time=300, resources={'dummy-1'}, image='https://example.com/wherever/is/your/logo.jpg', features={'feature2', 'feature1'})}
+{'dummy': Laboratory(identifier='dummy', display_name='Dummy Lab', description=None, category='Dummy laboratories', keywords=[], max_time=300, resources={'dummy-1'}, image='https://example.com/wherever/is/your/logo.jpg', features={'feature2', 'feature1'})}
+OrderedDict([('de', 'Deutsch'), ('en', 'English'), ('es', 'Español'), ('uk', 'Українська')])
+OrderedDict([('de', 'Deutsch'), ('en', 'English'), ('es', 'Español'), ('uk', 'Українська')])
+OrderedDict([('de', 'Deutsch'), ('en', 'English'), ('es', 'Español'), ('uk', 'Українська')])
+{'dummy': Laboratory(identifier='dummy', display_name='Dummy Lab', description=None, category='Dummy laboratories', keywords=[], max_time=300, resources={'dummy-1'}, image='https://example.com/wherever/is/your/logo.jpg', features={'feature2', 'feature1'})}
+OrderedDict([('de', 'Deutsch'), ('en', 'English'), ('es', 'Español'), ('uk', 'Українська')])
+OrderedDict([('de', 'Deutsch'), ('en', 'English'), ('es', 'Español'), ('uk', 'Українська')])
+{'dummy': Laboratory(identifier='dummy', display_name='Dummy Lab', description=None, category='Dummy laboratories', keywords=[], max_time=300, resources={'dummy-1'}, image='https://example.com/wherever/is/your/logo.jpg', features={'feature2', 'feature1'})}
+OrderedDict([('de', 'Deutsch'), ('en', 'English'), ('es', 'Español'), ('uk', 'Українська')])
+OrderedDict([('de', 'Deutsch'), ('en', 'English'), ('es', 'Español'), ('uk', 'Українська')])
+{'dummy': Laboratory(identifier='dummy', display_name='Dummy Lab', description=None, category='Dummy laboratories', keywords=[], max_time=300, resources={'dummy-1'}, image='https://example.com/wherever/is/your/logo.jpg', features={'feature2', 'feature1'})}
+OrderedDict([('de', 'Deutsch'), ('en', 'English'), ('es', 'Español'), ('uk', 'Українська')])
+OrderedDict([('de', 'Deutsch'), ('en', 'English'), ('es', 'Español'), ('uk', 'Українська')])
+OrderedDict([('de', 'Deutsch'), ('en', 'English'), ('es', 'Español'), ('uk', 'Українська')])
+OrderedDict([('de', 'Deutsch'), ('en', 'English'), ('es', 'Español'), ('uk', 'Українська')])
+{'dummy': Laboratory(identifier='dummy', display_name='Dummy Lab', description=None, category='Dummy laboratories', keywords=[], max_time=300, resources={'dummy-1'}, image='https://example.com/wherever/is/your/logo.jpg', features={'feature2', 'feature1'})}
+OrderedDict([('de', 'Deutsch'), ('en', 'English'), ('es', 'Español'), ('uk', 'Українська')])
+OrderedDict([('de', 'Deutsch'), ('en', 'English'), ('es', 'Español'), ('uk', 'Українська')])
+{'dummy': Laboratory(identifier='dummy', display_name='Dummy Lab', description=None, category='Dummy laboratories', keywords=[], max_time=300, resources={'dummy-1'}, image='https://example.com/wherever/is/your/logo.jpg', features={'feature2', 'feature1'})}
+OrderedDict([('de', 'Deutsch'), ('en', 'English'), ('es', 'Español'), ('uk', 'Українська')])
+{'dummy': Laboratory(identifier='dummy', display_name='Dummy Lab', description=None, category='Dummy laboratories', keywords=[], max_time=300, resources={'dummy-1'}, image='https://example.com/wherever/is/your/logo.jpg', features={'feature2', 'feature1'})}
+OrderedDict([('de', 'Deutsch'), ('en', 'English'), ('es', 'Español'), ('uk', 'Українська')])
+OrderedDict([('de', 'Deutsch'), ('en', 'English'), ('es', 'Español'), ('uk', 'Українська')])
+{'dummy': Laboratory(identifier='dummy', display_name='Dummy Lab', description=None, category='Dummy laboratories', keywords=[], max_time=300, resources={'dummy-1'}, image='https://example.com/wherever/is/your/logo.jpg', features={'feature2', 'feature1'})}
+OrderedDict([('de', 'Deutsch'), ('en', 'English'), ('es', 'Español'), ('uk', 'Українська')])
+{'dummy': Laboratory(identifier='dummy', display_name='Dummy Lab', description=None, category='Dummy laboratories', keywords=[], max_time=300, resources={'dummy-1'}, image='https://example.com/wherever/is/your/logo.jpg', features={'feature2', 'feature1'})}
+OrderedDict([('de', 'Deutsch'), ('en', 'English'), ('es', 'Español'), ('uk', 'Українська')])
+{'dummy': Laboratory(identifier='dummy', display_name='Dummy Lab', description=None, category='Dummy laboratories', keywords=[], max_time=300, resources={'dummy-1'}, image='https://example.com/wherever/is/your/logo.jpg', features={'feature2', 'feature1'})}
+OrderedDict([('de', 'Deutsch'), ('en', 'English'), ('es', 'Español'), ('uk', 'Українська')])
+{'dummy': Laboratory(identifier='dummy', display_name='Dummy Lab', description=None, category='Dummy laboratories', keywords=[], max_time=300, resources={'dummy-1'}, image='https://example.com/wherever/is/your/logo.jpg', features={'feature2', 'feature1'})}
+{'dummy': Laboratory(identifier='dummy', display_name='Dummy Lab', description=None, category='Dummy laboratories', keywords=[], max_time=300, resources={'dummy-1'}, image='https://example.com/wherever/is/your/logo.jpg', features={'feature2', 'feature1'})}
+OrderedDict([('de', 'Deutsch'), ('en', 'English'), ('es', 'Español'), ('uk', 'Українська')])
+OrderedDict([('de', 'Deutsch'), ('en', 'English'), ('es', 'Español'), ('uk', 'Українська')])
+{'dummy': Laboratory(identifier='dummy', display_name='Dummy Lab', description=None, category='Dummy laboratories', keywords=[], max_time=300, resources={'dummy-1'}, image='https://example.com/wherever/is/your/logo.jpg', features={'feature2', 'feature1'})}
+OrderedDict([('de', 'Deutsch'), ('en', 'English'), ('es', 'Español'), ('uk', 'Українська')])
+OrderedDict([('de', 'Deutsch'), ('en', 'English'), ('es', 'Español'), ('uk', 'Українська')])
+OrderedDict([('de', 'Deutsch'), ('en', 'English'), ('es', 'Español'), ('uk', 'Українська')])
+OrderedDict([('de', 'Deutsch'), ('en', 'English'), ('es', 'Español'), ('uk', 'Українська')])
+{'dummy': Laboratory(identifier='dummy', display_name='Dummy Lab', description=None, category='Dummy laboratories', keywords=[], max_time=300, resources={'dummy-1'}, image='https://example.com/wherever/is/your/logo.jpg', features={'feature2', 'feature1'})}
+OrderedDict([('de', 'Deutsch'), ('en', 'English'), ('es', 'Español'), ('uk', 'Українська')])
+OrderedDict([('de', 'Deutsch'), ('en', 'English'), ('es', 'Español'), ('uk', 'Українська')])
+OrderedDict([('de', 'Deutsch'), ('en', 'English'), ('es', 'Español'), ('uk', 'Українська')])
+{'dummy': Laboratory(identifier='dummy', display_name='Dummy Lab', description=None, category='Dummy laboratories', keywords=[], max_time=300, resources={'dummy-1'}, image='https://example.com/wherever/is/your/logo.jpg', features={'feature2', 'feature1'})}
+OrderedDict([('de', 'Deutsch'), ('en', 'English'), ('es', 'Español'), ('uk', 'Українська')])
+OrderedDict([('de', 'Deutsch'), ('en', 'English'), ('es', 'Español'), ('uk', 'Українська')])
+OrderedDict([('de', 'Deutsch'), ('en', 'English'), ('es', 'Español'), ('uk', 'Українська')])
+OrderedDict([('de', 'Deutsch'), ('en', 'English'), ('es', 'Español'), ('uk', 'Українська')])
+OrderedDict([('de', 'Deutsch'), ('en', 'English'), ('es', 'Español'), ('uk', 'Українська')])
+OrderedDict([('de', 'Deutsch'), ('en', 'English'), ('es', 'Español'), ('uk', 'Українська')])
+OrderedDict([('de', 'Deutsch'), ('en', 'English'), ('es', 'Español'), ('uk', 'Українська')])
+{'C_X': Laboratory(identifier='C_X', display_name='Cyclone 10 Lab', description='Access an FPGA board with an Cyclone 10 FPGA for image processing', category='FPGA laboratories', keywords=['fpga', 'electronics', 'image processing'], max_time=300, resources={'FPGA-1'}, image='http://10.30.200.157/labfiles/Logos/EduPow_CX.jpg', features={'feature1', 'feature2'})}
+OrderedDict([('de', 'Deutsch'), ('en', 'English'), ('es', 'Español'), ('uk', 'Українська')])
+OrderedDict([('de', 'Deutsch'), ('en', 'English'), ('es', 'Español'), ('uk', 'Українська')])
+{'C_X': Laboratory(identifier='C_X', display_name='Cyclone 10 Lab', description='Access an FPGA board with an Cyclone 10 FPGA for image processing', category='FPGA laboratories', keywords=['fpga', 'electronics', 'image processing'], max_time=300, resources={'FPGA-1'}, image='http://10.30.200.157/labfiles/Logos/EduPow_CX.jpg', features={'feature1', 'feature2'})}
+OrderedDict([('de', 'Deutsch'), ('en', 'English'), ('es', 'Español'), ('uk', 'Українська')])
+{'C_X': Laboratory(identifier='C_X', display_name='Cyclone 10 Lab', description='Access an FPGA board with an Cyclone 10 FPGA for image processing', category='FPGA laboratories', keywords=['fpga', 'electronics', 'image processing'], max_time=300, resources={'FPGA-1'}, image='http://10.30.200.157/labfiles/Logos/EduPow_CX.jpg', features={'feature1', 'feature2'})}
+{'C_X': Laboratory(identifier='C_X', display_name='Cyclone 10 Lab', description='Access an FPGA board with an Cyclone 10 FPGA for image processing', category='FPGA laboratories', keywords=['fpga', 'electronics', 'image processing'], max_time=300, resources={'FPGA-1'}, image='http://10.30.200.157/labfiles/Logos/EduPow_CX.jpg', features={'feature1', 'feature2'})}
+{'C_X': Laboratory(identifier='C_X', display_name='Cyclone 10 Lab', description='Access an FPGA board with an Cyclone 10 FPGA for image processing', category='FPGA laboratories', keywords=['fpga', 'electronics', 'image processing'], max_time=300, resources={'FPGA-1'}, image='http://10.30.200.157/labfiles/Logos/EduPow_CX.jpg', features={'feature1', 'feature2'})}
+OrderedDict([('de', 'Deutsch'), ('en', 'English'), ('es', 'Español'), ('uk', 'Українська')])
+{'C_X': Laboratory(identifier='C_X', display_name='Cyclone 10 Lab', description='Access an FPGA board with an Cyclone 10 FPGA for image processing', category='FPGA laboratories', keywords=['fpga', 'electronics', 'image processing'], max_time=300, resources={'FPGA-1'}, image='http://10.30.200.157/labfiles/Logos/EduPow_CX.jpg', features={'feature1', 'feature2'})}
+OrderedDict([('de', 'Deutsch'), ('en', 'English'), ('es', 'Español'), ('uk', 'Українська')])
+OrderedDict([('de', 'Deutsch'), ('en', 'English'), ('es', 'Español'), ('uk', 'Українська')])
+OrderedDict([('de', 'Deutsch'), ('en', 'English'), ('es', 'Español'), ('uk', 'Українська')])
+{'C_X': Laboratory(identifier='C_X', display_name='Cyclone 10 Lab', description='Access an FPGA board with an Cyclone 10 FPGA for image processing', category='FPGA laboratories', keywords=['fpga', 'electronics', 'image processing'], max_time=300, resources={'FPGA-1'}, image='http://10.30.200.157/labfiles/Logos/EduPow_CX.jpg', features={'feature1', 'feature2'})}
+{'C_X': Laboratory(identifier='C_X', display_name='Cyclone 10 Lab', description='Access an FPGA board with an Cyclone 10 FPGA for image processing', category='FPGA laboratories', keywords=['fpga', 'electronics', 'image processing'], max_time=300, resources={'FPGA-1'}, image='http://10.30.200.157/labfiles/Logos/EduPow_CX.jpg', features={'feature1', 'feature2'})}
+{'C_X': Laboratory(identifier='C_X', display_name='Cyclone 10 Lab', description='Access an FPGA board with an Cyclone 10 FPGA for image processing', category='FPGA laboratories', keywords=['fpga', 'electronics', 'image processing'], max_time=300, resources={'FPGA-1'}, image='http://10.30.200.157/labfiles/Logos/EduPow_CX.jpg', features={'feature1', 'feature2'})}
+OrderedDict([('de', 'Deutsch'), ('en', 'English'), ('es', 'Español'), ('uk', 'Українська')])
+OrderedDict([('de', 'Deutsch'), ('en', 'English'), ('es', 'Español'), ('uk', 'Українська')])
+OrderedDict([('de', 'Deutsch'), ('en', 'English'), ('es', 'Español'), ('uk', 'Українська')])
+{'C_X': Laboratory(identifier='C_X', display_name='Cyclone 10 Lab', description='Access an FPGA board with an Cyclone 10 FPGA for image processing', category='FPGA laboratories', keywords=['fpga', 'electronics', 'image processing'], max_time=300, resources={'FPGA-1'}, image='http://10.30.200.157/labfiles/Logos/EduPow_CX.jpg', features={'feature1', 'feature2'})}
+OrderedDict([('de', 'Deutsch'), ('en', 'English'), ('es', 'Español'), ('uk', 'Українська')])
+{'C_X': Laboratory(identifier='C_X', display_name='Cyclone 10 Lab', description='Access an FPGA board with an Cyclone 10 FPGA for image processing', category='FPGA laboratories', keywords=['fpga', 'electronics', 'image processing'], max_time=300, resources={'FPGA-1'}, image='http://10.30.200.157/labfiles/Logos/EduPow_CX.jpg', features={'feature1', 'feature2'})}
+{'C_X': Laboratory(identifier='C_X', display_name='Cyclone 10 Lab', description='Access an FPGA board with an Cyclone 10 FPGA for image processing', category='FPGA laboratories', keywords=['fpga', 'electronics', 'image processing'], max_time=300, resources={'FPGA-1'}, image='http://10.30.200.157/labfiles/Logos/EduPow_CX.jpg', features={'feature1', 'feature2'})}
+{'C_X': Laboratory(identifier='C_X', display_name='Cyclone 10 Lab', description='Access an FPGA board with an Cyclone 10 FPGA for image processing', category='FPGA laboratories', keywords=['fpga', 'electronics', 'image processing'], max_time=300, resources={'FPGA-1'}, image='http://10.30.200.157/labfiles/Logos/EduPow_CX.jpg', features={'feature1', 'feature2'})}
+OrderedDict([('de', 'Deutsch'), ('en', 'English'), ('es', 'Español'), ('uk', 'Українська')])
+OrderedDict([('de', 'Deutsch'), ('en', 'English'), ('es', 'Español'), ('uk', 'Українська')])
+OrderedDict([('de', 'Deutsch'), ('en', 'English'), ('es', 'Español'), ('uk', 'Українська')])
+{'C_X': Laboratory(identifier='C_X', display_name='Cyclone 10 Lab', description='Access an FPGA board with an Cyclone 10 FPGA for image processing', category='FPGA laboratories', keywords=['fpga', 'electronics', 'image processing'], max_time=300, resources={'FPGA-1'}, image='http://10.30.200.157/labfiles/Logos/EduPow_CX.jpg', features={'feature1', 'feature2'})}
+OrderedDict([('de', 'Deutsch'), ('en', 'English'), ('es', 'Español'), ('uk', 'Українська')])
+OrderedDict([('de', 'Deutsch'), ('en', 'English'), ('es', 'Español'), ('uk', 'Українська')])
+OrderedDict([('de', 'Deutsch'), ('en', 'English'), ('es', 'Español'), ('uk', 'Українська')])
+{'C_X': Laboratory(identifier='C_X', display_name='Cyclone 10 Lab', description='Access an FPGA board with an Cyclone 10 FPGA for image processing', category='FPGA laboratories', keywords=['fpga', 'electronics', 'image processing'], max_time=300, resources={'FPGA-1'}, image='http://10.30.200.157/labfiles/Logos/EduPow_CX.jpg', features={'feature1', 'feature2'})}
+OrderedDict([('de', 'Deutsch'), ('en', 'English'), ('es', 'Español'), ('uk', 'Українська')])
+OrderedDict([('de', 'Deutsch'), ('en', 'English'), ('es', 'Español'), ('uk', 'Українська')])
+{'C_X': Laboratory(identifier='C_X', display_name='Cyclone 10 Lab', description='Access an FPGA board with a Cyclone 10 FPGA for image processing', category='FPGA laboratories', keywords=['fpga', 'electronics', 'image processing'], max_time=300, resources={'FPGA-1'}, image='http://10.30.200.157/labfiles/Logos/EduPow_CX.jpg', features={'feature1', 'feature2'})}
+{'C_X': Laboratory(identifier='C_X', display_name='Cyclone 10 Lab', description='Access an FPGA board with a Cyclone 10 FPGA for image processing', category='FPGA laboratories', keywords=['fpga', 'electronics', 'image processing'], max_time=300, resources={'FPGA-1'}, image='http://10.30.200.157/labfiles/Logos/EduPow_CX.jpg', features={'feature1', 'feature2'})}
+OrderedDict([('de', 'Deutsch'), ('en', 'English'), ('es', 'Español'), ('uk', 'Українська')])
+{'C_X': Laboratory(identifier='C_X', display_name='Cyclone 10 Lab', description='Access an FPGA board with a Cyclone 10 FPGA for image processing', category='FPGA laboratories', keywords=['fpga', 'electronics', 'image processing'], max_time=300, resources={'FPGA-1'}, image='http://10.30.200.157/labfiles/Logos/EduPow_CX.jpg', features={'feature1', 'feature2'})}
+{'C_X': Laboratory(identifier='C_X', display_name='Cyclone 10 Lab', description='Access an FPGA board with a Cyclone 10 FPGA for image processing', category='FPGA laboratories', keywords=['fpga', 'electronics', 'image processing'], max_time=300, resources={'FPGA-1'}, image='http://10.30.200.157/labfiles/Logos/EduPow_CX.jpg', features={'feature1', 'feature2'})}
+OrderedDict([('de', 'Deutsch'), ('en', 'English'), ('es', 'Español'), ('uk', 'Українська')])
+{'C_X': Laboratory(identifier='C_X', display_name='Cyclone 10 Lab', description='Access an FPGA board with a Cyclone 10 FPGA for image processing', category='FPGA laboratories', keywords=['fpga', 'electronics', 'image processing'], max_time=300, resources={'FPGA-1'}, image='http://10.30.200.157/labfiles/Logos/EduPow_CX.jpg', features={'feature1', 'feature2'})}
+OrderedDict([('de', 'Deutsch'), ('en', 'English'), ('es', 'Español'), ('uk', 'Українська')])
+{'C_X': Laboratory(identifier='C_X', display_name='Cyclone 10 Lab', description='Access an FPGA board with a Cyclone 10 FPGA for image processing', category='FPGA laboratories', keywords=['fpga', 'electronics', 'image processing'], max_time=300, resources={'FPGA-1'}, image='http://10.30.200.157/labfiles/Logos/EduPow_CX.jpg', features={'feature1', 'feature2'})}
+OrderedDict([('de', 'Deutsch'), ('en', 'English'), ('es', 'Español'), ('uk', 'Українська')])
+OrderedDict([('de', 'Deutsch'), ('en', 'English'), ('es', 'Español'), ('uk', 'Українська')])
+OrderedDict([('de', 'Deutsch'), ('en', 'English'), ('es', 'Español'), ('uk', 'Українська')])
+{'C_X': Laboratory(identifier='C_X', display_name='Cyclone 10 Lab', description='Access an FPGA board with a Cyclone 10 FPGA for image processing', category='FPGA laboratories', keywords=['fpga', 'electronics', 'image processing'], max_time=300, resources={'FPGA-1'}, image='http://10.30.200.157/labfiles/Logos/EduPow_CX.jpg', features={'feature1', 'feature2'})}
+OrderedDict([('de', 'Deutsch'), ('en', 'English'), ('es', 'Español'), ('uk', 'Українська')])
+{'C_X': Laboratory(identifier='C_X', display_name='Cyclone 10 Lab', description='Access an FPGA board with a Cyclone 10 FPGA for image processing', category='FPGA laboratories', keywords=['fpga', 'electronics', 'image processing'], max_time=300, resources={'FPGA-1'}, image='http://10.30.200.157/labfiles/Logos/EduPow_CX.jpg', features={'feature1', 'feature2'})}
+{'C_X': Laboratory(identifier='C_X', display_name='Cyclone 10 Lab', description='Access an FPGA board with a Cyclone 10 FPGA for image processing', category='FPGA laboratories', keywords=['fpga', 'electronics', 'image processing'], max_time=300, resources={'FPGA-1'}, image='http://10.30.200.157/labfiles/Logos/EduPow_CX.jpg', features={'feature1', 'feature2'})}
+{'C_X': Laboratory(identifier='C_X', display_name='Cyclone 10 Lab', description='Access an FPGA board with a Cyclone 10 FPGA for image processing', category='FPGA laboratories', keywords=['fpga', 'electronics', 'image processing'], max_time=300, resources={'FPGA-1'}, image='http://10.30.200.157/labfiles/Logos/EduPow_CX.jpg', features={'feature1', 'feature2'})}
+{'C_X': Laboratory(identifier='C_X', display_name='Cyclone 10 Lab', description='Access an FPGA board with a Cyclone 10 FPGA for image processing', category='FPGA laboratories', keywords=['fpga', 'electronics', 'image processing'], max_time=300, resources={'FPGA-1'}, image='http://10.30.200.157/labfiles/Logos/EduPow_CX.jpg', features={'feature1', 'feature2'})}
+OrderedDict([('de', 'Deutsch'), ('en', 'English'), ('es', 'Español'), ('uk', 'Українська')])
+{'C_X': Laboratory(identifier='C_X', display_name='Cyclone 10 Lab', description='Access an FPGA board with a Cyclone 10 FPGA for image processing', category='FPGA laboratories', keywords=['fpga', 'electronics', 'image processing'], max_time=300, resources={'FPGA-1'}, image='http://10.30.200.157/labfiles/Logos/EduPow_CX.jpg', features={'feature1', 'feature2'})}
+OrderedDict([('de', 'Deutsch'), ('en', 'English'), ('es', 'Español'), ('uk', 'Українська')])
+{'C_X': Laboratory(identifier='C_X', display_name='Cyclone 10 Lab', description='Access an FPGA board with a Cyclone 10 FPGA for image processing', category='FPGA laboratories', keywords=['fpga', 'electronics', 'image processing'], max_time=300, resources={'FPGA-1'}, image='http://10.30.200.157/labfiles/Logos/EduPow_CX.jpg', features={'feature1', 'feature2'})}
+{'C_X': Laboratory(identifier='C_X', display_name='Cyclone 10 Lab', description='Access an FPGA board with a Cyclone 10 FPGA for image processing', category='FPGA laboratories', keywords=['fpga', 'electronics', 'image processing'], max_time=300, resources={'FPGA-1'}, image='http://10.30.200.157/labfiles/Logos/EduPow_CX.jpg', features={'feature1', 'feature2'})}
+OrderedDict([('de', 'Deutsch'), ('en', 'English'), ('es', 'Español'), ('uk', 'Українська')])
+{'C_X': Laboratory(identifier='C_X', display_name='Cyclone 10 Lab', description='Access an FPGA board with a Cyclone 10 FPGA for image processing', category='FPGA laboratories', keywords=['fpga', 'electronics', 'image processing'], max_time=300, resources={'FPGA-1'}, image='http://10.30.200.157/labfiles/Logos/EduPow_CX.jpg', features={'feature1', 'feature2'})}
+{'C_X': Laboratory(identifier='C_X', display_name='Cyclone 10 Lab', description='Access an FPGA board with a Cyclone 10 FPGA for image processing', category='FPGA laboratories', keywords=['fpga', 'electronics', 'image processing'], max_time=300, resources={'FPGA-1'}, image='http://10.30.200.157/labfiles/Logos/EduPow_CX.jpg', features={'feature1', 'feature2'})}
+{'C_X': Laboratory(identifier='C_X', display_name='Cyclone 10 Lab', description='Access an FPGA board with a Cyclone 10 FPGA for image processing', category='FPGA laboratories', keywords=['fpga', 'electronics', 'image processing'], max_time=300, resources={'FPGA-1'}, image='http://10.30.200.157/labfiles/Logos/EduPow_CX.jpg', features={'feature1', 'feature2'})}
+OrderedDict([('de', 'Deutsch'), ('en', 'English'), ('es', 'Español'), ('uk', 'Українська')])
+{'C_X': Laboratory(identifier='C_X', display_name='Cyclone 10 Lab', description='Access an FPGA board with a Cyclone 10 FPGA for image processing', category='FPGA laboratories', keywords=['fpga', 'electronics', 'image processing'], max_time=300, resources={'FPGA-1'}, image='http://10.30.200.157/labfiles/Logos/EduPow_CX.jpg', features={'feature1', 'feature2'})}
+{'C_X': Laboratory(identifier='C_X', display_name='Cyclone 10 Lab', description='Access an FPGA board with a Cyclone 10 FPGA for image processing', category='FPGA laboratories', keywords=['fpga', 'electronics', 'image processing'], max_time=300, resources={'FPGA-1'}, image='http://10.30.200.157/labfiles/Logos/EduPow_CX.jpg', features={'feature1', 'feature2'})}
+{'C_X': Laboratory(identifier='C_X', display_name='Cyclone 10 Lab', description='Access an FPGA board with a Cyclone 10 FPGA for image processing', category='FPGA laboratories', keywords=['fpga', 'electronics', 'image processing'], max_time=300, resources={'FPGA-1'}, image='http://10.30.200.157/labfiles/Logos/EduPow_CX.jpg', features={'feature1', 'feature2'})}
+{'C_X': Laboratory(identifier='C_X', display_name='Cyclone 10 Lab', description='Access an FPGA board with a Cyclone 10 FPGA for image processing', category='FPGA laboratories', keywords=['fpga', 'electronics', 'image processing'], max_time=300, resources={'FPGA-1'}, image='http://10.30.200.157/labfiles/Logos/EduPow_CX.jpg', features={'feature1', 'feature2'})}
+OrderedDict([('de', 'Deutsch'), ('en', 'English'), ('es', 'Español'), ('uk', 'Українська')])
+{'C_X': Laboratory(identifier='C_X', display_name='Cyclone 10 Lab', description='Access an FPGA board with a Cyclone 10 FPGA for image processing', category='FPGA laboratories', keywords=['fpga', 'electronics', 'image processing'], max_time=300, resources={'FPGA-1'}, image='http://10.30.200.157/labfiles/Logos/EduPow_CX.jpg', features={'feature1', 'feature2'})}
+{'C_X': Laboratory(identifier='C_X', display_name='Cyclone 10 Lab', description='Access an FPGA board with a Cyclone 10 FPGA for image processing', category='FPGA laboratories', keywords=['fpga', 'electronics', 'image processing'], max_time=300, resources={'FPGA-1'}, image='http://10.30.200.157/labfiles/Logos/EduPow_CX.jpg', features={'feature1', 'feature2'})}
+{'C_X': Laboratory(identifier='C_X', display_name='Cyclone 10 Lab', description='Access an FPGA board with a Cyclone 10 FPGA for image processing', category='FPGA laboratories', keywords=['fpga', 'electronics', 'image processing'], max_time=300, resources={'FPGA-1'}, image='http://10.30.200.157/labfiles/Logos/EduPow_CX.jpg', features={'feature1', 'feature2'})}
+OrderedDict([('de', 'Deutsch'), ('en', 'English'), ('es', 'Español'), ('uk', 'Українська')])
+{'C_X': Laboratory(identifier='C_X', display_name='Cyclone 10 Lab', description='Access an FPGA board with a Cyclone 10 FPGA for image processing', category='FPGA laboratories', keywords=['fpga', 'electronics', 'image processing'], max_time=300, resources={'FPGA-1'}, image='http://10.30.200.157/labfiles/Logos/EduPow_CX.jpg', features={'feature1', 'feature2'})}
+{'C_X': Laboratory(identifier='C_X', display_name='Cyclone 10 Lab', description='Access an FPGA board with a Cyclone 10 FPGA for image processing', category='FPGA laboratories', keywords=['fpga', 'electronics', 'image processing'], max_time=300, resources={'FPGA-1'}, image='http://10.30.200.157/labfiles/Logos/EduPow_CX.jpg', features={'feature1', 'feature2'})}
+OrderedDict([('de', 'Deutsch'), ('en', 'English'), ('es', 'Español'), ('uk', 'Українська')])
+{'C_X': Laboratory(identifier='C_X', display_name='Cyclone 10 Lab', description='Access an FPGA board with a Cyclone 10 FPGA for image processing', category='FPGA laboratories', keywords=['fpga', 'electronics', 'image processing'], max_time=300, resources={'FPGA-1'}, image='http://10.30.200.157/labfiles/Logos/EduPow_CX.jpg', features={'feature1', 'feature2'})}
+{'C_X': Laboratory(identifier='C_X', display_name='Cyclone 10 Lab', description='Access an FPGA board with a Cyclone 10 FPGA for image processing', category='FPGA laboratories', keywords=['fpga', 'electronics', 'image processing'], max_time=300, resources={'FPGA-1'}, image='http://10.30.200.157/labfiles/Logos/EduPow_CX.jpg', features={'feature1', 'feature2'})}
+OrderedDict([('de', 'Deutsch'), ('en', 'English'), ('es', 'Español'), ('uk', 'Українська')])
+OrderedDict([('de', 'Deutsch'), ('en', 'English'), ('es', 'Español'), ('uk', 'Українська')])
+OrderedDict([('de', 'Deutsch'), ('en', 'English'), ('es', 'Español'), ('uk', 'Українська')])
+{'C_X': Laboratory(identifier='C_X', display_name='Cyclone 10 Lab', description='Access an FPGA board with a Cyclone 10 FPGA for image processing', category='FPGA laboratories', keywords=['fpga', 'electronics', 'image processing'], max_time=300, resources={'FPGA-1'}, image='http://10.30.200.157/labfiles/Logos/EduPow_CX.jpg', features={'feature1', 'feature2'})}
+OrderedDict([('de', 'Deutsch'), ('en', 'English'), ('es', 'Español'), ('uk', 'Українська')])
+OrderedDict([('de', 'Deutsch'), ('en', 'English'), ('es', 'Español'), ('uk', 'Українська')])
+{'C_X': Laboratory(identifier='C_X', display_name='Cyclone 10 Lab', description='Access an FPGA board with a Cyclone 10 FPGA for image processing', category='FPGA laboratories', keywords=['fpga', 'electronics', 'image processing'], max_time=300, resources={'FPGA-1'}, image='http://10.30.200.157/labfiles/Logos/EduPow_CX.jpg', features={'feature1', 'feature2'})}
+{'C_X': Laboratory(identifier='C_X', display_name='Cyclone 10 Lab', description='Access an FPGA board with a Cyclone 10 FPGA for image processing', category='FPGA laboratories', keywords=['fpga', 'electronics', 'image processing'], max_time=300, resources={'FPGA-1'}, image='http://10.30.200.157/labfiles/Logos/EduPow_CX.jpg', features={'feature1', 'feature2'})}
+{'C_X': Laboratory(identifier='C_X', display_name='Cyclone 10 Lab', description='Access an FPGA board with a Cyclone 10 FPGA for image processing', category='FPGA laboratories', keywords=['fpga', 'electronics', 'image processing'], max_time=300, resources={'FPGA-1'}, image='http://10.30.200.157/labfiles/Logos/EduPow_CX.jpg', features={'feature1', 'feature2'})}
+{'C_X': Laboratory(identifier='C_X', display_name='Cyclone 10 Lab', description='Access an FPGA board with a Cyclone 10 FPGA for image processing', category='FPGA laboratories', keywords=['fpga', 'electronics', 'image processing'], max_time=300, resources={'FPGA-1'}, image='http://10.30.200.157/labfiles/Logos/EduPow_CX.jpg', features={'feature1', 'feature2'})}
+OrderedDict([('de', 'Deutsch'), ('en', 'English'), ('es', 'Español'), ('uk', 'Українська')])
+OrderedDict([('de', 'Deutsch'), ('en', 'English'), ('es', 'Español'), ('uk', 'Українська')])
+OrderedDict([('de', 'Deutsch'), ('en', 'English'), ('es', 'Español'), ('uk', 'Українська')])
+OrderedDict([('de', 'Deutsch'), ('en', 'English'), ('es', 'Español'), ('uk', 'Українська')])
+{'C_X': Laboratory(identifier='C_X', display_name='Cyclone 10 Lab', description='Access an FPGA board with a Cyclone 10 FPGA for image processing', category='FPGA laboratories', keywords=['fpga', 'electronics', 'image processing'], max_time=300, resources={'FPGA-1'}, image='http://10.30.200.157/labfiles/Logos/EduPow_CX.jpg', features={'feature1', 'feature2'})}
+{'C_X': Laboratory(identifier='C_X', display_name='Cyclone 10 Lab', description='Access an FPGA board with a Cyclone 10 FPGA for image processing', category='FPGA laboratories', keywords=['fpga', 'electronics', 'image processing'], max_time=300, resources={'FPGA-1'}, image='http://10.30.200.157/labfiles/Logos/EduPow_CX.jpg', features={'feature1', 'feature2'})}
+OrderedDict([('de', 'Deutsch'), ('en', 'English'), ('es', 'Español'), ('uk', 'Українська')])
+OrderedDict([('de', 'Deutsch'), ('en', 'English'), ('es', 'Español'), ('uk', 'Українська')])
+OrderedDict([('de', 'Deutsch'), ('en', 'English'), ('es', 'Español'), ('uk', 'Українська')])
+OrderedDict([('de', 'Deutsch'), ('en', 'English'), ('es', 'Español'), ('uk', 'Українська')])
+{'C_X': Laboratory(identifier='C_X', display_name='Cyclone 10 Lab', description='Access an FPGA board with a Cyclone 10 FPGA for image processing', category='FPGA laboratories', keywords=['fpga', 'electronics', 'image processing'], max_time=300, resources={'FPGA-1'}, image='http://10.30.200.157/labfiles/Logos/EduPow_CX.jpg', features={'feature1', 'feature2'})}
+OrderedDict([('de', 'Deutsch'), ('en', 'English'), ('es', 'Español'), ('uk', 'Українська')])
+{'C_X': Laboratory(identifier='C_X', display_name='Cyclone 10 Lab', description='Access an FPGA board with a Cyclone 10 FPGA for image processing', category='FPGA laboratories', keywords=['fpga', 'electronics', 'image processing'], max_time=300, resources={'FPGA-1'}, image='http://10.30.200.157/labfiles/Logos/EduPow_CX.jpg', features={'feature1', 'feature2'})}
+OrderedDict([('de', 'Deutsch'), ('en', 'English'), ('es', 'Español'), ('uk', 'Українська')])
+OrderedDict([('de', 'Deutsch'), ('en', 'English'), ('es', 'Español'), ('uk', 'Українська')])
+OrderedDict([('de', 'Deutsch'), ('en', 'English'), ('es', 'Español'), ('uk', 'Українська')])
+OrderedDict([('de', 'Deutsch'), ('en', 'English'), ('es', 'Español'), ('uk', 'Українська')])
+OrderedDict([('de', 'Deutsch'), ('en', 'English'), ('es', 'Español'), ('uk', 'Українська')])
+{'C_X': Laboratory(identifier='C_X', display_name='Cyclone 10 Lab', description='Access an FPGA board with a Cyclone 10 FPGA for image processing', category='FPGA laboratories', keywords=['fpga', 'electronics', 'image processing'], max_time=300, resources={'FPGA-1'}, image='http://10.30.200.157/labfiles/Logos/EduPow_CX.jpg', features={'feature1', 'feature2'})}
+OrderedDict([('de', 'Deutsch'), ('en', 'English'), ('es', 'Español'), ('uk', 'Українська')])
+{'C_X': Laboratory(identifier='C_X', display_name='Cyclone 10 Lab', description='Access an FPGA board with a Cyclone 10 FPGA for image processing', category='FPGA laboratories', keywords=['fpga', 'electronics', 'image processing'], max_time=300, resources={'FPGA-1'}, image='http://10.30.200.157/labfiles/Logos/EduPow_CX.jpg', features={'feature1', 'feature2'})}
+{'C_X': Laboratory(identifier='C_X', display_name='Cyclone 10 Lab', description='Access an FPGA board with a Cyclone 10 FPGA for image processing', category='FPGA laboratories', keywords=['fpga', 'electronics', 'image processing'], max_time=300, resources={'FPGA-1'}, image='http://10.30.200.157/labfiles/Logos/EduPow_CX.jpg', features={'feature1', 'feature2'})}
+{'C_X': Laboratory(identifier='C_X', display_name='Cyclone 10 Lab', description='Access an FPGA board with a Cyclone 10 FPGA for image processing', category='FPGA laboratories', keywords=['fpga', 'electronics', 'image processing'], max_time=300, resources={'FPGA-1'}, image='http://10.30.200.157/labfiles/Logos/EduPow_CX.jpg', features={'feature1', 'feature2'})}
+{'C_X': Laboratory(identifier='C_X', display_name='Cyclone 10 Lab', description='Access an FPGA board with a Cyclone 10 FPGA for image processing', category='FPGA laboratories', keywords=['fpga', 'electronics', 'image processing'], max_time=300, resources={'FPGA-1'}, image='http://10.30.200.157/labfiles/Logos/EduPow_CX.jpg', features={'feature1', 'feature2'})}
+OrderedDict([('de', 'Deutsch'), ('en', 'English'), ('es', 'Español'), ('uk', 'Українська')])
+OrderedDict([('de', 'Deutsch'), ('en', 'English'), ('es', 'Español'), ('uk', 'Українська')])
+OrderedDict([('de', 'Deutsch'), ('en', 'English'), ('es', 'Español'), ('uk', 'Українська')])
+OrderedDict([('de', 'Deutsch'), ('en', 'English'), ('es', 'Español'), ('uk', 'Українська')])
+{'C_X': Laboratory(identifier='C_X', display_name='Cyclone 10 Lab', description='Access an FPGA board with a Cyclone 10 FPGA for image processing', category='FPGA laboratories', keywords=['fpga', 'electronics', 'image processing'], max_time=300, resources={'FPGA-1'}, image='http://10.30.200.157/labfiles/Logos/EduPow_CX.jpg', features={'feature1', 'feature2'})}
+{'C_X': Laboratory(identifier='C_X', display_name='Cyclone 10 Lab', description='Access an FPGA board with a Cyclone 10 FPGA for image processing', category='FPGA laboratories', keywords=['fpga', 'electronics', 'image processing'], max_time=300, resources={'FPGA-1'}, image='http://10.30.200.157/labfiles/Logos/EduPow_CX.jpg', features={'feature1', 'feature2'})}
+OrderedDict([('de', 'Deutsch'), ('en', 'English'), ('es', 'Español'), ('uk', 'Українська')])
+OrderedDict([('de', 'Deutsch'), ('en', 'English'), ('es', 'Español'), ('uk', 'Українська')])
+OrderedDict([('de', 'Deutsch'), ('en', 'English'), ('es', 'Español'), ('uk', 'Українська')])
+{'C_X': Laboratory(identifier='C_X', display_name='Cyclone 10 Lab', description='Access an FPGA board with a Cyclone 10 FPGA for image processing', category='FPGA laboratories', keywords=['fpga', 'electronics', 'image processing'], max_time=300, resources={'FPGA-1'}, image='http://10.30.200.157/labfiles/Logos/EduPow_CX.jpg', features={'feature1', 'feature2'})}
+OrderedDict([('de', 'Deutsch'), ('en', 'English'), ('es', 'Español'), ('uk', 'Українська')])
+{'C_X': Laboratory(identifier='C_X', display_name='Cyclone 10 Lab', description='Access an FPGA board with a Cyclone 10 FPGA for image processing', category='FPGA laboratories', keywords=['fpga', 'electronics', 'image processing'], max_time=300, resources={'FPGA-1'}, image='http://10.30.200.157/labfiles/Logos/EduPow_CX.jpg', features={'feature1', 'feature2'})}
+{'C_X': Laboratory(identifier='C_X', display_name='Cyclone 10 Lab', description='Access an FPGA board with a Cyclone 10 FPGA for image processing', category='FPGA laboratories', keywords=['fpga', 'electronics', 'image processing'], max_time=300, resources={'FPGA-1'}, image='http://10.30.200.157/labfiles/Logos/EduPow_CX.jpg', features={'feature1', 'feature2'})}
+OrderedDict([('de', 'Deutsch'), ('en', 'English'), ('es', 'Español'), ('uk', 'Українська')])
+{'C_X': Laboratory(identifier='C_X', display_name='Cyclone 10 Lab', description='Access an FPGA board with a Cyclone 10 FPGA for image processing', category='FPGA laboratories', keywords=['fpga', 'electronics', 'image processing'], max_time=300, resources={'FPGA-1'}, image='http://10.30.200.157/labfiles/Logos/EduPow_CX.jpg', features={'feature1', 'feature2'})}
+OrderedDict([('de', 'Deutsch'), ('en', 'English'), ('es', 'Español'), ('uk', 'Українська')])
+{'C_X': Laboratory(identifier='C_X', display_name='Cyclone 10 Lab', description='Access an FPGA board with a Cyclone 10 FPGA for image processing', category='FPGA laboratories', keywords=['fpga', 'electronics', 'image processing'], max_time=300, resources={'FPGA-1'}, image='http://10.30.200.157/labfiles/Logos/EduPow_CX.jpg', features={'feature1', 'feature2'})}
+OrderedDict([('de', 'Deutsch'), ('en', 'English'), ('es', 'Español'), ('uk', 'Українська')])
+OrderedDict([('de', 'Deutsch'), ('en', 'English'), ('es', 'Español'), ('uk', 'Українська')])
+{'C_X': Laboratory(identifier='C_X', display_name='Cyclone 10 Lab', description='Access an FPGA board with a Cyclone 10 FPGA for image processing', category='FPGA laboratories', keywords=['fpga', 'electronics', 'image processing'], max_time=300, resources={'FPGA-1'}, image='http://10.30.200.157/labfiles/Logos/EduPow_CX.jpg', features={'feature1', 'feature2'})}
+{'C_X': Laboratory(identifier='C_X', display_name='Cyclone 10 Lab', description='Access an FPGA board with a Cyclone 10 FPGA for image processing', category='FPGA laboratories', keywords=['fpga', 'electronics', 'image processing'], max_time=300, resources={'FPGA-1'}, image='http://10.30.200.157/labfiles/Logos/EduPow_CX.jpg', features={'feature1', 'feature2'})}
+{'C_X': Laboratory(identifier='C_X', display_name='Cyclone 10 Lab', description='Access an FPGA board with a Cyclone 10 FPGA for image processing', category='FPGA laboratories', keywords=['fpga', 'electronics', 'image processing'], max_time=300, resources={'FPGA-1'}, image='http://10.30.200.157/labfiles/Logos/EduPow_CX.jpg', features={'feature1', 'feature2'})}
+OrderedDict([('de', 'Deutsch'), ('en', 'English'), ('es', 'Español'), ('uk', 'Українська')])
+OrderedDict([('de', 'Deutsch'), ('en', 'English'), ('es', 'Español'), ('uk', 'Українська')])
+{'C_X': Laboratory(identifier='C_X', display_name='Cyclone 10 Lab', description='Access an FPGA board with a Cyclone 10 FPGA for image processing', category='FPGA laboratories', keywords=['fpga', 'electronics', 'image processing'], max_time=300, resources={'FPGA-1'}, image='http://10.30.200.157/labfiles/Logos/EduPow_CX.jpg', features={'feature1', 'feature2'})}
+{'C_X': Laboratory(identifier='C_X', display_name='Cyclone 10 Lab', description='Access an FPGA board with a Cyclone 10 FPGA for image processing', category='FPGA laboratories', keywords=['fpga', 'electronics', 'image processing'], max_time=300, resources={'FPGA-1'}, image='http://10.30.200.157/labfiles/Logos/EduPow_CX.jpg', features={'feature1', 'feature2'})}
+{'C_X': Laboratory(identifier='C_X', display_name='Cyclone 10 Lab', description='Access an FPGA board with a Cyclone 10 FPGA for image processing', category='FPGA laboratories', keywords=['fpga', 'electronics', 'image processing'], max_time=300, resources={'FPGA-1'}, image='http://10.30.200.157/labfiles/Logos/EduPow_CX.jpg', features={'feature1', 'feature2'})}
+{'C_X': Laboratory(identifier='C_X', display_name='Cyclone 10 Lab', description='Access an FPGA board with a Cyclone 10 FPGA for image processing', category='FPGA laboratories', keywords=['fpga', 'electronics', 'image processing'], max_time=300, resources={'FPGA-1'}, image='http://10.30.200.157/labfiles/Logos/EduPow_CX.jpg', features={'feature1', 'feature2'})}
+{'C_X': Laboratory(identifier='C_X', display_name='Cyclone 10 Lab', description='Access an FPGA board with a Cyclone 10 FPGA for image processing', category='FPGA laboratories', keywords=['fpga', 'electronics', 'image processing'], max_time=300, resources={'FPGA-1'}, image='http://10.30.200.157/labfiles/Logos/EduPow_CX.jpg', features={'feature1', 'feature2'})}
+{'C_X': Laboratory(identifier='C_X', display_name='Cyclone 10 Lab', description='Access an FPGA board with a Cyclone 10 FPGA for image processing', category='FPGA laboratories', keywords=['fpga', 'electronics', 'image processing'], max_time=300, resources={'FPGA-1'}, image='http://10.30.200.157/labfiles/Logos/EduPow_CX.jpg', features={'feature1', 'feature2'})}
+OrderedDict([('de', 'Deutsch'), ('en', 'English'), ('es', 'Español'), ('uk', 'Українська')])
+OrderedDict([('de', 'Deutsch'), ('en', 'English'), ('es', 'Español'), ('uk', 'Українська')])
+OrderedDict([('de', 'Deutsch'), ('en', 'English'), ('es', 'Español'), ('uk', 'Українська')])
+OrderedDict([('de', 'Deutsch'), ('en', 'English'), ('es', 'Español'), ('uk', 'Українська')])
+{'C_X': Laboratory(identifier='C_X', display_name='Cyclone 10 Lab', description='Access an FPGA board with a Cyclone 10 FPGA for image processing', category='FPGA laboratories', keywords=['fpga', 'electronics', 'image processing'], max_time=300, resources={'FPGA-1'}, image='http://10.30.200.157/labfiles/Logos/EduPow_CX.jpg', features={'feature1', 'feature2'})}
+OrderedDict([('de', 'Deutsch'), ('en', 'English'), ('es', 'Español'), ('uk', 'Українська')])
+OrderedDict([('de', 'Deutsch'), ('en', 'English'), ('es', 'Español'), ('uk', 'Українська')])
+OrderedDict([('de', 'Deutsch'), ('en', 'English'), ('es', 'Español'), ('uk', 'Українська')])
+OrderedDict([('de', 'Deutsch'), ('en', 'English'), ('es', 'Español'), ('uk', 'Українська')])
+OrderedDict([('de', 'Deutsch'), ('en', 'English'), ('es', 'Español'), ('uk', 'Українська')])
+OrderedDict([('de', 'Deutsch'), ('en', 'English'), ('es', 'Español'), ('uk', 'Українська')])
+{'C_X': Laboratory(identifier='C_X', display_name='Cyclone 10 Lab', description='Access an FPGA board with a Cyclone 10 FPGA for image processing', category='FPGA laboratories', keywords=['fpga', 'electronics', 'image processing'], max_time=300, resources={'FPGA-1'}, image='http://10.30.200.157/labfiles/Logos/EduPow_CX.jpg', features={'feature1', 'feature2'})}
+OrderedDict([('de', 'Deutsch'), ('en', 'English'), ('es', 'Español'), ('uk', 'Українська')])
+OrderedDict([('de', 'Deutsch'), ('en', 'English'), ('es', 'Español'), ('uk', 'Українська')])
+{'C_X': Laboratory(identifier='C_X', display_name='Cyclone 10 Lab', description='Access an FPGA board with a Cyclone 10 FPGA for image processing', category='FPGA laboratories', keywords=['fpga', 'electronics', 'image processing'], max_time=300, resources={'FPGA-1'}, image='http://10.30.200.157/labfiles/Logos/EduPow_CX.jpg', features={'feature1', 'feature2'})}
+{'C_X': Laboratory(identifier='C_X', display_name='Cyclone 10 Lab', description='Access an FPGA board with a Cyclone 10 FPGA for image processing', category='FPGA laboratories', keywords=['fpga', 'electronics', 'image processing'], max_time=300, resources={'FPGA-1'}, image='http://10.30.200.157/labfiles/Logos/EduPow_CX.jpg', features={'feature1', 'feature2'})}
+OrderedDict([('de', 'Deutsch'), ('en', 'English'), ('es', 'Español'), ('uk', 'Українська')])
+{'C_X': Laboratory(identifier='C_X', display_name='Cyclone 10 Lab', description='Access an FPGA board with a Cyclone 10 FPGA for image processing', category='FPGA laboratories', keywords=['fpga', 'electronics', 'image processing'], max_time=300, resources={'FPGA-1'}, image='http://10.30.200.157/labfiles/Logos/EduPow_CX.jpg', features={'feature1', 'feature2'})}
+{'C_X': Laboratory(identifier='C_X', display_name='Cyclone 10 Lab', description='Access an FPGA board with a Cyclone 10 FPGA for image processing', category='FPGA laboratories', keywords=['fpga', 'electronics', 'image processing'], max_time=300, resources={'FPGA-1'}, image='http://10.30.200.157/labfiles/Logos/EduPow_CX.jpg', features={'feature1', 'feature2'})}
+OrderedDict([('de', 'Deutsch'), ('en', 'English'), ('es', 'Español'), ('uk', 'Українська')])
+OrderedDict([('de', 'Deutsch'), ('en', 'English'), ('es', 'Español'), ('uk', 'Українська')])
+OrderedDict([('de', 'Deutsch'), ('en', 'English'), ('es', 'Español'), ('uk', 'Українська')])
+{'C_X': Laboratory(identifier='C_X', display_name='Cyclone 10 Lab', description='Access an FPGA board with a Cyclone 10 FPGA for image processing', category='FPGA laboratories', keywords=['fpga', 'electronics', 'image processing'], max_time=300, resources={'FPGA-1'}, image='http://10.30.200.157/labfiles/Logos/EduPow_CX.jpg', features={'feature1', 'feature2'})}
+OrderedDict([('de', 'Deutsch'), ('en', 'English'), ('es', 'Español'), ('uk', 'Українська')])
+OrderedDict([('de', 'Deutsch'), ('en', 'English'), ('es', 'Español'), ('uk', 'Українська')])
+{'C_X': Laboratory(identifier='C_X', display_name='Cyclone 10 Lab', description='Access an FPGA board with a Cyclone 10 FPGA for image processing', category='FPGA laboratories', keywords=['fpga', 'electronics', 'image processing'], max_time=300, resources={'FPGA-1'}, image='http://10.30.200.157/labfiles/Logos/EduPow_CX.jpg', features={'feature1', 'feature2'})}
+OrderedDict([('de', 'Deutsch'), ('en', 'English'), ('es', 'Español'), ('uk', 'Українська')])
+{'C_X': Laboratory(identifier='C_X', display_name='Cyclone 10 Lab', description='Access an FPGA board with a Cyclone 10 FPGA for image processing', category='FPGA laboratories', keywords=['fpga', 'electronics', 'image processing'], max_time=300, resources={'FPGA-1'}, image='http://10.30.200.157/labfiles/Logos/EduPow_CX.jpg', features={'feature1', 'feature2'})}
+OrderedDict([('de', 'Deutsch'), ('en', 'English'), ('es', 'Español'), ('uk', 'Українська')])
+{'C_X': Laboratory(identifier='C_X', display_name='Cyclone 10 Lab', description='Access an FPGA board with a Cyclone 10 FPGA for image processing', category='FPGA laboratories', keywords=['fpga', 'electronics', 'image processing'], max_time=300, resources={'FPGA-1'}, image='http://10.30.200.157/labfiles/Logos/EduPow_CX.jpg', features={'feature1', 'feature2'})}
+{'C_X': Laboratory(identifier='C_X', display_name='Cyclone 10 Lab', description='Access an FPGA board with a Cyclone 10 FPGA for image processing', category='FPGA laboratories', keywords=['fpga', 'electronics', 'image processing'], max_time=300, resources={'FPGA-1'}, image='http://10.30.200.157/labfiles/Logos/EduPow_CX.jpg', features={'feature1', 'feature2'})}
+OrderedDict([('de', 'Deutsch'), ('en', 'English'), ('es', 'Español'), ('uk', 'Українська')])
+OrderedDict([('de', 'Deutsch'), ('en', 'English'), ('es', 'Español'), ('uk', 'Українська')])
+OrderedDict([('de', 'Deutsch'), ('en', 'English'), ('es', 'Español'), ('uk', 'Українська')])
+OrderedDict([('de', 'Deutsch'), ('en', 'English'), ('es', 'Español'), ('uk', 'Українська')])
+OrderedDict([('de', 'Deutsch'), ('en', 'English'), ('es', 'Español'), ('uk', 'Українська')])
+{'C_X': Laboratory(identifier='C_X', display_name='Cyclone 10 Lab', description='Access an FPGA board with a Cyclone 10 FPGA for image processing', category='FPGA laboratories', keywords=['fpga', 'electronics', 'image processing'], max_time=300, resources={'FPGA-1'}, image='http://10.30.200.157/labfiles/Logos/EduPow_CX.jpg', features={'feature1', 'feature2'})}
+{'C_X': Laboratory(identifier='C_X', display_name='Cyclone 10 Lab', description='Access an FPGA board with a Cyclone 10 FPGA for image processing', category='FPGA laboratories', keywords=['fpga', 'electronics', 'image processing'], max_time=300, resources={'FPGA-1'}, image='http://10.30.200.157/labfiles/Logos/EduPow_CX.jpg', features={'feature1', 'feature2'})}
+{'C_X': Laboratory(identifier='C_X', display_name='Cyclone 10 Lab', description='Access an FPGA board with a Cyclone 10 FPGA for image processing', category='FPGA laboratories', keywords=['fpga', 'electronics', 'image processing'], max_time=300, resources={'FPGA-1'}, image='http://10.30.200.157/labfiles/Logos/EduPow_CX.jpg', features={'feature1', 'feature2'})}
+OrderedDict([('de', 'Deutsch'), ('en', 'English'), ('es', 'Español'), ('uk', 'Українська')])
+OrderedDict([('de', 'Deutsch'), ('en', 'English'), ('es', 'Español'), ('uk', 'Українська')])
+{'C_X': Laboratory(identifier='C_X', display_name='Cyclone 10 Lab', description='Access an FPGA board with a Cyclone 10 FPGA for image processing', category='FPGA laboratories', keywords=['fpga', 'electronics', 'image processing'], max_time=300, resources={'FPGA-1'}, image='http://10.30.200.157/labfiles/Logos/EduPow_CX.jpg', features={'feature1', 'feature2'})}
+{'C_X': Laboratory(identifier='C_X', display_name='Cyclone 10 Lab', description='Access an FPGA board with a Cyclone 10 FPGA for image processing', category='FPGA laboratories', keywords=['fpga', 'electronics', 'image processing'], max_time=300, resources={'FPGA-1'}, image='http://10.30.200.157/labfiles/Logos/EduPow_CX.jpg', features={'feature1', 'feature2'})}
+{'C_X': Laboratory(identifier='C_X', display_name='Cyclone 10 Lab', description='Access an FPGA board with a Cyclone 10 FPGA for image processing', category='FPGA laboratories', keywords=['fpga', 'electronics', 'image processing'], max_time=300, resources={'FPGA-1'}, image='http://10.30.200.157/labfiles/Logos/EduPow_CX.jpg', features={'feature1', 'feature2'})}
+{'C_X': Laboratory(identifier='C_X', display_name='Cyclone 10 Lab', description='Access an FPGA board with a Cyclone 10 FPGA for image processing', category='FPGA laboratories', keywords=['fpga', 'electronics', 'image processing'], max_time=300, resources={'FPGA-1'}, image='http://10.30.200.157/labfiles/Logos/EduPow_CX.jpg', features={'feature1', 'feature2'})}
+{'C_X': Laboratory(identifier='C_X', display_name='Cyclone 10 Lab', description='Access an FPGA board with a Cyclone 10 FPGA for image processing', category='FPGA laboratories', keywords=['fpga', 'electronics', 'image processing'], max_time=300, resources={'FPGA-1'}, image='http://10.30.200.157/labfiles/Logos/EduPow_CX.jpg', features={'feature1', 'feature2'})}
+{'C_X': Laboratory(identifier='C_X', display_name='Cyclone 10 Lab', description='Access an FPGA board with a Cyclone 10 FPGA for image processing', category='FPGA laboratories', keywords=['fpga', 'electronics', 'image processing'], max_time=300, resources={'FPGA-1'}, image='http://10.30.200.157/labfiles/Logos/EduPow_CX.jpg', features={'feature1', 'feature2'})}
+{'C_X': Laboratory(identifier='C_X', display_name='Cyclone 10 Lab', description='Access an FPGA board with a Cyclone 10 FPGA for image processing', category='FPGA laboratories', keywords=['fpga', 'electronics', 'image processing'], max_time=300, resources={'FPGA-1'}, image='http://10.30.200.157/labfiles/Logos/EduPow_CX.jpg', features={'feature1', 'feature2'})}
+{'C_X': Laboratory(identifier='C_X', display_name='Cyclone 10 Lab', description='Access an FPGA board with a Cyclone 10 FPGA for image processing', category='FPGA laboratories', keywords=['fpga', 'electronics', 'image processing'], max_time=300, resources={'FPGA-1'}, image='http://10.30.200.157/labfiles/Logos/EduPow_CX.jpg', features={'feature1', 'feature2'})}
+OrderedDict([('de', 'Deutsch'), ('en', 'English'), ('es', 'Español'), ('uk', 'Українська')])
+{'C_X': Laboratory(identifier='C_X', display_name='Cyclone 10 Lab', description='Access an FPGA board with a Cyclone 10 FPGA for image processing', category='FPGA laboratories', keywords=['fpga', 'electronics', 'image processing'], max_time=300, resources={'FPGA-1'}, image='http://10.30.200.157/labfiles/Logos/EduPow_CX.jpg', features={'feature1', 'feature2'})}
+{'C_X': Laboratory(identifier='C_X', display_name='Cyclone 10 Lab', description='Access an FPGA board with a Cyclone 10 FPGA for image processing', category='FPGA laboratories', keywords=['fpga', 'electronics', 'image processing'], max_time=300, resources={'FPGA-1'}, image='http://10.30.200.157/labfiles/Logos/EduPow_CX.jpg', features={'feature1', 'feature2'})}
+{'C_X': Laboratory(identifier='C_X', display_name='Cyclone 10 Lab', description='Access an FPGA board with a Cyclone 10 FPGA for image processing', category='FPGA laboratories', keywords=['fpga', 'electronics', 'image processing'], max_time=300, resources={'FPGA-1'}, image='http://10.30.200.157/labfiles/Logos/EduPow_CX.jpg', features={'feature1', 'feature2'})}
+OrderedDict([('de', 'Deutsch'), ('en', 'English'), ('es', 'Español'), ('uk', 'Українська')])
+{'C_X': Laboratory(identifier='C_X', display_name='Cyclone 10 Lab', description='Access an FPGA board with a Cyclone 10 FPGA for image processing', category='FPGA laboratories', keywords=['fpga', 'electronics', 'image processing'], max_time=300, resources={'FPGA-1'}, image='http://10.30.200.157/labfiles/Logos/EduPow_CX.jpg', features={'feature1', 'feature2'})}
+OrderedDict([('de', 'Deutsch'), ('en', 'English'), ('es', 'Español'), ('uk', 'Українська')])
+{'C_X': Laboratory(identifier='C_X', display_name='Cyclone 10 Lab', description='Access an FPGA board with a Cyclone 10 FPGA for image processing', category='FPGA laboratories', keywords=['fpga', 'electronics', 'image processing'], max_time=300, resources={'FPGA-1'}, image='http://10.30.200.157/labfiles/Logos/EduPow_CX.jpg', features={'feature1', 'feature2'})}
+OrderedDict([('de', 'Deutsch'), ('en', 'English'), ('es', 'Español'), ('uk', 'Українська')])
+OrderedDict([('de', 'Deutsch'), ('en', 'English'), ('es', 'Español'), ('uk', 'Українська')])
+OrderedDict([('de', 'Deutsch'), ('en', 'English'), ('es', 'Español'), ('uk', 'Українська')])
+OrderedDict([('de', 'Deutsch'), ('en', 'English'), ('es', 'Español'), ('uk', 'Українська')])
+{'C_X': Laboratory(identifier='C_X', display_name='Cyclone 10 Lab', description='Access an FPGA board with a Cyclone 10 FPGA for image processing', category='FPGA laboratories', keywords=['fpga', 'electronics', 'image processing'], max_time=300, resources={'FPGA-1'}, image='http://10.30.200.157/labfiles/Logos/EduPow_CX.jpg', features={'feature1', 'feature2'})}
+OrderedDict([('de', 'Deutsch'), ('en', 'English'), ('es', 'Español'), ('uk', 'Українська')])
+{'C_X': Laboratory(identifier='C_X', display_name='Cyclone 10 Lab', description='Access an FPGA board with a Cyclone 10 FPGA for image processing', category='FPGA laboratories', keywords=['fpga', 'electronics', 'image processing'], max_time=300, resources={'FPGA-1'}, image='http://10.30.200.157/labfiles/Logos/EduPow_CX.jpg', features={'feature1', 'feature2'})}
+OrderedDict([('de', 'Deutsch'), ('en', 'English'), ('es', 'Español'), ('uk', 'Українська')])
+OrderedDict([('de', 'Deutsch'), ('en', 'English'), ('es', 'Español'), ('uk', 'Українська')])
+OrderedDict([('de', 'Deutsch'), ('en', 'English'), ('es', 'Español'), ('uk', 'Українська')])
+{'C_X': Laboratory(identifier='C_X', display_name='Cyclone 10 Lab', description='Access an FPGA board with a Cyclone 10 FPGA for image processing', category='FPGA laboratories', keywords=['fpga', 'electronics', 'image processing'], max_time=300, resources={'FPGA-1'}, image='http://10.30.200.157/labfiles/Logos/EduPow_CX.jpg', features={'feature1', 'feature2'})}
+{'C_X': Laboratory(identifier='C_X', display_name='Cyclone 10 Lab', description='Access an FPGA board with a Cyclone 10 FPGA for image processing', category='FPGA laboratories', keywords=['fpga', 'electronics', 'image processing'], max_time=300, resources={'FPGA-1'}, image='http://10.30.200.157/labfiles/Logos/EduPow_CX.jpg', features={'feature1', 'feature2'})}
+OrderedDict([('de', 'Deutsch'), ('en', 'English'), ('es', 'Español'), ('uk', 'Українська')])
+{'C_X': Laboratory(identifier='C_X', display_name='Cyclone 10 Lab', description='Access an FPGA board with a Cyclone 10 FPGA for image processing', category='FPGA laboratories', keywords=['fpga', 'electronics', 'image processing'], max_time=300, resources={'FPGA-1'}, image='http://10.30.200.157/labfiles/Logos/EduPow_CX.jpg', features={'feature1', 'feature2'})}
+{'C_X': Laboratory(identifier='C_X', display_name='Cyclone 10 Lab', description='Access an FPGA board with a Cyclone 10 FPGA for image processing', category='FPGA laboratories', keywords=['fpga', 'electronics', 'image processing'], max_time=300, resources={'FPGA-1'}, image='http://10.30.200.157/labfiles/Logos/EduPow_CX.jpg', features={'feature1', 'feature2'})}
+OrderedDict([('de', 'Deutsch'), ('en', 'English'), ('es', 'Español'), ('uk', 'Українська')])
+OrderedDict([('de', 'Deutsch'), ('en', 'English'), ('es', 'Español'), ('uk', 'Українська')])
+OrderedDict([('de', 'Deutsch'), ('en', 'English'), ('es', 'Español'), ('uk', 'Українська')])
+{'C_X': Laboratory(identifier='C_X', display_name='Cyclone 10 Lab', description='Access an FPGA board with a Cyclone 10 FPGA for image processing', category='FPGA laboratories', keywords=['fpga', 'electronics', 'image processing'], max_time=300, resources={'FPGA-1'}, image='http://10.30.200.157/labfiles/Logos/EduPow_CX.jpg', features={'feature1', 'feature2'})}
+{'C_X': Laboratory(identifier='C_X', display_name='Cyclone 10 Lab', description='Access an FPGA board with a Cyclone 10 FPGA for image processing', category='FPGA laboratories', keywords=['fpga', 'electronics', 'image processing'], max_time=300, resources={'FPGA-1'}, image='http://10.30.200.157/labfiles/Logos/EduPow_CX.jpg', features={'feature1', 'feature2'})}
+OrderedDict([('de', 'Deutsch'), ('en', 'English'), ('es', 'Español'), ('uk', 'Українська')])
+{'C_X': Laboratory(identifier='C_X', display_name='Cyclone 10 Lab', description='Access an FPGA board with a Cyclone 10 FPGA for image processing', category='FPGA laboratories', keywords=['fpga', 'electronics', 'image processing'], max_time=300, resources={'FPGA-1'}, image='http://10.30.200.157/labfiles/Logos/EduPow_CX.jpg', features={'feature1', 'feature2'})}
+OrderedDict([('de', 'Deutsch'), ('en', 'English'), ('es', 'Español'), ('uk', 'Українська')])
+OrderedDict([('de', 'Deutsch'), ('en', 'English'), ('es', 'Español'), ('uk', 'Українська')])
+OrderedDict([('de', 'Deutsch'), ('en', 'English'), ('es', 'Español'), ('uk', 'Українська')])
+OrderedDict([('de', 'Deutsch'), ('en', 'English'), ('es', 'Español'), ('uk', 'Українська')])
+{'C_X': Laboratory(identifier='C_X', display_name='Cyclone 10 Lab', description='Access an FPGA board with a Cyclone 10 FPGA for image processing', category='FPGA laboratories', keywords=['fpga', 'electronics', 'image processing'], max_time=300, resources={'FPGA-1'}, image='http://10.30.200.157/labfiles/Logos/EduPow_CX.jpg', features={'feature1', 'feature2'})}
+OrderedDict([('de', 'Deutsch'), ('en', 'English'), ('es', 'Español'), ('uk', 'Українська')])
+{'C_X': Laboratory(identifier='C_X', display_name='Cyclone 10 Lab', description='Access an FPGA board with a Cyclone 10 FPGA for image processing', category='FPGA laboratories', keywords=['fpga', 'electronics', 'image processing'], max_time=300, resources={'FPGA-1'}, image='http://10.30.200.157/labfiles/Logos/EduPow_CX.jpg', features={'feature1', 'feature2'})}
+{'C_X': Laboratory(identifier='C_X', display_name='Cyclone 10 Lab', description='Access an FPGA board with a Cyclone 10 FPGA for image processing', category='FPGA laboratories', keywords=['fpga', 'electronics', 'image processing'], max_time=300, resources={'FPGA-1'}, image='http://10.30.200.157/labfiles/Logos/EduPow_CX.jpg', features={'feature1', 'feature2'})}
+OrderedDict([('de', 'Deutsch'), ('en', 'English'), ('es', 'Español'), ('uk', 'Українська')])
+{'C_X': Laboratory(identifier='C_X', display_name='Cyclone 10 Lab', description='Access an FPGA board with a Cyclone 10 FPGA for image processing', category='FPGA laboratories', keywords=['fpga', 'electronics', 'image processing'], max_time=300, resources={'FPGA-1'}, image='http://10.30.200.157/labfiles/Logos/EduPow_CX.jpg', features={'feature1', 'feature2'})}
+OrderedDict([('de', 'Deutsch'), ('en', 'English'), ('es', 'Español'), ('uk', 'Українська')])
+{'C_X': Laboratory(identifier='C_X', display_name='Cyclone 10 Lab', description='Access an FPGA board with a Cyclone 10 FPGA for image processing', category='FPGA laboratories', keywords=['fpga', 'electronics', 'image processing'], max_time=300, resources={'FPGA-1'}, image='http://10.30.200.157/labfiles/Logos/EduPow_CX.jpg', features={'feature1', 'feature2'})}
+OrderedDict([('de', 'Deutsch'), ('en', 'English'), ('es', 'Español'), ('uk', 'Українська')])
+OrderedDict([('de', 'Deutsch'), ('en', 'English'), ('es', 'Español'), ('uk', 'Українська')])
+OrderedDict([('de', 'Deutsch'), ('en', 'English'), ('es', 'Español'), ('uk', 'Українська')])
+OrderedDict([('de', 'Deutsch'), ('en', 'English'), ('es', 'Español'), ('uk', 'Українська')])
+OrderedDict([('de', 'Deutsch'), ('en', 'English'), ('es', 'Español'), ('uk', 'Українська')])
+{'C_X': Laboratory(identifier='C_X', display_name='Cyclone 10 Lab', description='Access an FPGA board with a Cyclone 10 FPGA for image processing', category='FPGA laboratories', keywords=['fpga', 'electronics', 'image processing'], max_time=300, resources={'FPGA-1'}, image='http://10.30.200.157/labfiles/Logos/EduPow_CX.jpg', features={'feature1', 'feature2'})}
+{'C_X': Laboratory(identifier='C_X', display_name='Cyclone 10 Lab', description='Access an FPGA board with a Cyclone 10 FPGA for image processing', category='FPGA laboratories', keywords=['fpga', 'electronics', 'image processing'], max_time=300, resources={'FPGA-1'}, image='http://10.30.200.157/labfiles/Logos/EduPow_CX.jpg', features={'feature1', 'feature2'})}
+OrderedDict([('de', 'Deutsch'), ('en', 'English'), ('es', 'Español'), ('uk', 'Українська')])
+{'C_X': Laboratory(identifier='C_X', display_name='Cyclone 10 Lab', description='Access an FPGA board with a Cyclone 10 FPGA for image processing', category='FPGA laboratories', keywords=['fpga', 'electronics', 'image processing'], max_time=300, resources={'FPGA-1'}, image='http://10.30.200.157/labfiles/Logos/EduPow_CX.jpg', features={'feature1', 'feature2'})}
+{'C_X': Laboratory(identifier='C_X', display_name='Cyclone 10 Lab', description='Access an FPGA board with a Cyclone 10 FPGA for image processing', category='FPGA laboratories', keywords=['fpga', 'electronics', 'image processing'], max_time=300, resources={'FPGA-1'}, image='http://10.30.200.157/labfiles/Logos/EduPow_CX.jpg', features={'feature1', 'feature2'})}
+{'C_X': Laboratory(identifier='C_X', display_name='Cyclone 10 Lab', description='Access an FPGA board with a Cyclone 10 FPGA for image processing', category='FPGA laboratories', keywords=['fpga', 'electronics', 'image processing'], max_time=300, resources={'FPGA-1'}, image='http://10.30.200.157/labfiles/Logos/EduPow_CX.jpg', features={'feature1', 'feature2'})}
+OrderedDict([('de', 'Deutsch'), ('en', 'English'), ('es', 'Español'), ('uk', 'Українська')])
+{'C_X': Laboratory(identifier='C_X', display_name='Cyclone 10 Lab', description='Access an FPGA board with a Cyclone 10 FPGA for image processing', category='FPGA laboratories', keywords=['fpga', 'electronics', 'image processing'], max_time=300, resources={'FPGA-1'}, image='http://10.30.200.157/labfiles/Logos/EduPow_CX.jpg', features={'feature1', 'feature2'})}
+OrderedDict([('de', 'Deutsch'), ('en', 'English'), ('es', 'Español'), ('uk', 'Українська')])
+OrderedDict([('de', 'Deutsch'), ('en', 'English'), ('es', 'Español'), ('uk', 'Українська')])
+OrderedDict([('de', 'Deutsch'), ('en', 'English'), ('es', 'Español'), ('uk', 'Українська')])
+{'C_X': Laboratory(identifier='C_X', display_name='Cyclone 10 Lab', description='Access an FPGA board with a Cyclone 10 FPGA for image processing', category='FPGA laboratories', keywords=['fpga', 'electronics', 'image processing'], max_time=300, resources={'FPGA-1'}, image='http://10.30.200.157/labfiles/Logos/EduPow_CX.jpg', features={'feature1', 'feature2'})}
+OrderedDict([('de', 'Deutsch'), ('en', 'English'), ('es', 'Español'), ('uk', 'Українська')])
+{'C_X': Laboratory(identifier='C_X', display_name='Cyclone 10 Lab', description='Access an FPGA board with a Cyclone 10 FPGA for image processing', category='FPGA laboratories', keywords=['fpga', 'electronics', 'image processing'], max_time=300, resources={'FPGA-1'}, image='http://10.30.200.157/labfiles/Logos/EduPow_CX.jpg', features={'feature1', 'feature2'})}
+{'C_X': Laboratory(identifier='C_X', display_name='Cyclone 10 Lab', description='Access an FPGA board with a Cyclone 10 FPGA for image processing', category='FPGA laboratories', keywords=['fpga', 'electronics', 'image processing'], max_time=300, resources={'FPGA-1'}, image='http://10.30.200.157/labfiles/Logos/EduPow_CX.jpg', features={'feature1', 'feature2'})}
+OrderedDict([('de', 'Deutsch'), ('en', 'English'), ('es', 'Español'), ('uk', 'Українська')])
+OrderedDict([('de', 'Deutsch'), ('en', 'English'), ('es', 'Español'), ('uk', 'Українська')])
+OrderedDict([('de', 'Deutsch'), ('en', 'English'), ('es', 'Español'), ('uk', 'Українська')])
+OrderedDict([('de', 'Deutsch'), ('en', 'English'), ('es', 'Español'), ('uk', 'Українська')])
+OrderedDict([('de', 'Deutsch'), ('en', 'English'), ('es', 'Español'), ('uk', 'Українська')])
+{'C_X': Laboratory(identifier='C_X', display_name='Cyclone 10 Lab', description='Access an FPGA board with a Cyclone 10 FPGA for image processing', category='FPGA laboratories', keywords=['fpga', 'electronics', 'image processing'], max_time=300, resources={'FPGA-1'}, image='http://10.30.200.157/labfiles/Logos/EduPow_CX.jpg', features={'feature1', 'feature2'})}
+OrderedDict([('de', 'Deutsch'), ('en', 'English'), ('es', 'Español'), ('uk', 'Українська')])
+{'C_X': Laboratory(identifier='C_X', display_name='Cyclone 10 Lab', description='Access an FPGA board with a Cyclone 10 FPGA for image processing', category='FPGA laboratories', keywords=['fpga', 'electronics', 'image processing'], max_time=300, resources={'FPGA-1'}, image='http://10.30.200.157/labfiles/Logos/EduPow_CX.jpg', features={'feature1', 'feature2'})}
+OrderedDict([('de', 'Deutsch'), ('en', 'English'), ('es', 'Español'), ('uk', 'Українська')])
+OrderedDict([('de', 'Deutsch'), ('en', 'English'), ('es', 'Español'), ('uk', 'Українська')])
+{'C_X': Laboratory(identifier='C_X', display_name='Cyclone 10 Lab', description='Access an FPGA board with a Cyclone 10 FPGA for image processing', category='FPGA laboratories', keywords=['fpga', 'electronics', 'image processing'], max_time=300, resources={'FPGA-1'}, image='http://10.30.200.157/labfiles/Logos/EduPow_CX.jpg', features={'feature2', 'feature1'})}
+{'C_X': Laboratory(identifier='C_X', display_name='Cyclone 10 Lab', description='Access an FPGA board with a Cyclone 10 FPGA for image processing', category='FPGA laboratories', keywords=['fpga', 'electronics', 'image processing'], max_time=300, resources={'FPGA-1'}, image='http://10.30.200.157/labfiles/Logos/EduPow_CX.jpg', features={'feature2', 'feature1'})}
+{'C_X': Laboratory(identifier='C_X', display_name='Cyclone 10 Lab', description='Access an FPGA board with a Cyclone 10 FPGA for image processing', category='FPGA laboratories', keywords=['fpga', 'electronics', 'image processing'], max_time=300, resources={'FPGA-1'}, image='http://10.30.200.157/labfiles/Logos/EduPow_CX.jpg', features={'feature2', 'feature1'})}
+OrderedDict([('de', 'Deutsch'), ('en', 'English'), ('es', 'Español'), ('uk', 'Українська')])
+{'C_X': Laboratory(identifier='C_X', display_name='Cyclone 10 Lab', description='Access an FPGA board with a Cyclone 10 FPGA for image processing', category='FPGA laboratories', keywords=['fpga', 'electronics', 'image processing'], max_time=300, resources={'FPGA-1'}, image='http://10.30.200.157/labfiles/Logos/EduPow_CX.jpg', features={'feature2', 'feature1'})}
+{'C_X': Laboratory(identifier='C_X', display_name='Cyclone 10 Lab', description='Access an FPGA board with a Cyclone 10 FPGA for image processing', category='FPGA laboratories', keywords=['fpga', 'electronics', 'image processing'], max_time=300, resources={'FPGA-1'}, image='http://10.30.200.157/labfiles/Logos/EduPow_CX.jpg', features={'feature2', 'feature1'})}
+OrderedDict([('de', 'Deutsch'), ('en', 'English'), ('es', 'Español'), ('uk', 'Українська')])
+OrderedDict([('de', 'Deutsch'), ('en', 'English'), ('es', 'Español'), ('uk', 'Українська')])
+{'C_X': Laboratory(identifier='C_X', display_name='Cyclone 10 Lab', description='Access an FPGA board with a Cyclone 10 FPGA for image processing', category='FPGA laboratories', keywords=['fpga', 'electronics', 'image processing'], max_time=300, resources={'FPGA-1'}, image='http://10.30.200.157/labfiles/Logos/EduPow_CX.jpg', features={'feature2', 'feature1'})}
+OrderedDict([('de', 'Deutsch'), ('en', 'English'), ('es', 'Español'), ('uk', 'Українська')])
+{'C_X': Laboratory(identifier='C_X', display_name='Cyclone 10 Lab', description='Access an FPGA board with a Cyclone 10 FPGA for image processing', category='FPGA laboratories', keywords=['fpga', 'electronics', 'image processing'], max_time=300, resources={'FPGA-1'}, image='http://10.30.200.157/labfiles/Logos/EduPow_CX.jpg', features={'feature2', 'feature1'})}
+OrderedDict([('de', 'Deutsch'), ('en', 'English'), ('es', 'Español'), ('uk', 'Українська')])
+{'C_X': Laboratory(identifier='C_X', display_name='Cyclone 10 Lab', description='Access an FPGA board with a Cyclone 10 FPGA for image processing', category='FPGA laboratories', keywords=['fpga', 'electronics', 'image processing'], max_time=300, resources={'FPGA-1'}, image='http://10.30.200.157/labfiles/Logos/EduPow_CX.jpg', features={'feature2', 'feature1'})}
+OrderedDict([('de', 'Deutsch'), ('en', 'English'), ('es', 'Español'), ('uk', 'Українська')])
+OrderedDict([('de', 'Deutsch'), ('en', 'English'), ('es', 'Español'), ('uk', 'Українська')])
+{'C_X': Laboratory(identifier='C_X', display_name='Cyclone 10 Lab', description='Access an FPGA board with a Cyclone 10 FPGA for image processing', category='FPGA laboratories', keywords=['fpga', 'electronics', 'image processing'], max_time=300, resources={'FPGA-1'}, image='http://10.30.200.157/labfiles/Logos/EduPow_CX.jpg', features={'feature2', 'feature1'})}
+OrderedDict([('de', 'Deutsch'), ('en', 'English'), ('es', 'Español'), ('uk', 'Українська')])
+OrderedDict([('de', 'Deutsch'), ('en', 'English'), ('es', 'Español'), ('uk', 'Українська')])
+{'C_X': Laboratory(identifier='C_X', display_name='Cyclone 10 Lab', description='Access an FPGA board with a Cyclone 10 FPGA for image processing', category='FPGA laboratories', keywords=['fpga', 'electronics', 'image processing'], max_time=300, resources={'FPGA-1'}, image='http://10.30.200.157/labfiles/Logos/EduPow_CX.jpg', features={'feature2', 'feature1'})}
+OrderedDict([('de', 'Deutsch'), ('en', 'English'), ('es', 'Español'), ('uk', 'Українська')])
+{'C_X': Laboratory(identifier='C_X', display_name='Cyclone 10 Lab', description='Access an FPGA board with a Cyclone 10 FPGA for image processing', category='FPGA laboratories', keywords=['fpga', 'electronics', 'image processing'], max_time=300, resources={'FPGA-1'}, image='http://10.30.200.157/labfiles/Logos/EduPow_CX.jpg', features={'feature2', 'feature1'})}
+OrderedDict([('de', 'Deutsch'), ('en', 'English'), ('es', 'Español'), ('uk', 'Українська')])
+OrderedDict([('de', 'Deutsch'), ('en', 'English'), ('es', 'Español'), ('uk', 'Українська')])
+{'C_X': Laboratory(identifier='C_X', display_name='Cyclone 10 Lab', description='Access an FPGA board with a Cyclone 10 FPGA for image processing', category='FPGA laboratories', keywords=['fpga', 'electronics', 'image processing'], max_time=300, resources={'FPGA-1'}, image='http://10.30.200.157/labfiles/Logos/EduPow_CX.jpg', features={'feature2', 'feature1'})}
+OrderedDict([('de', 'Deutsch'), ('en', 'English'), ('es', 'Español'), ('uk', 'Українська')])
+{'C_X': Laboratory(identifier='C_X', display_name='Cyclone 10 Lab', description='Access an FPGA board with a Cyclone 10 FPGA for image processing', category='FPGA laboratories', keywords=['fpga', 'electronics', 'image processing'], max_time=300, resources={'FPGA-1'}, image='http://10.30.200.157/labfiles/Logos/EduPow_CX.jpg', features={'feature2', 'feature1'})}
+OrderedDict([('de', 'Deutsch'), ('en', 'English'), ('es', 'Español'), ('uk', 'Українська')])
+OrderedDict([('de', 'Deutsch'), ('en', 'English'), ('es', 'Español'), ('uk', 'Українська')])
+OrderedDict([('de', 'Deutsch'), ('en', 'English'), ('es', 'Español'), ('uk', 'Українська')])
+OrderedDict([('de', 'Deutsch'), ('en', 'English'), ('es', 'Español'), ('uk', 'Українська')])
+{'C_X': Laboratory(identifier='C_X', display_name='Cyclone 10 Lab', description='Access an FPGA board with a Cyclone 10 FPGA for image processing', category='FPGA laboratories', keywords=['fpga', 'electronics', 'image processing'], max_time=300, resources={'FPGA-1'}, image='http://10.30.200.157/labfiles/Logos/EduPow_CX.jpg', features={'feature1', 'feature2'})}
+OrderedDict([('de', 'Deutsch'), ('en', 'English'), ('es', 'Español'), ('uk', 'Українська')])
+{'C_X': Laboratory(identifier='C_X', display_name='Cyclone 10 Lab', description='Access an FPGA board with a Cyclone 10 FPGA for image processing', category='FPGA laboratories', keywords=['fpga', 'electronics', 'image processing'], max_time=300, resources={'FPGA-1'}, image='http://10.30.200.157/labfiles/Logos/EduPow_CX.jpg', features={'feature1', 'feature2'})}
+OrderedDict([('de', 'Deutsch'), ('en', 'English'), ('es', 'Español'), ('uk', 'Українська')])
+OrderedDict([('de', 'Deutsch'), ('en', 'English'), ('es', 'Español'), ('uk', 'Українська')])
+{'C_X': Laboratory(identifier='C_X', display_name='Cyclone 10 Lab', description='Access an FPGA board with a Cyclone 10 FPGA for image processing', category='FPGA laboratories', keywords=['fpga', 'electronics', 'image processing'], max_time=300, resources={'FPGA-1'}, image='http://10.30.200.157/labfiles/Logos/EduPow_CX.jpg', features={'feature1', 'feature2'})}
+OrderedDict([('de', 'Deutsch'), ('en', 'English'), ('es', 'Español'), ('uk', 'Українська')])
+OrderedDict([('de', 'Deutsch'), ('en', 'English'), ('es', 'Español'), ('uk', 'Українська')])
+{'C_X': Laboratory(identifier='C_X', display_name='Cyclone 10 Lab', description='Access an FPGA board with a Cyclone 10 FPGA for image processing', category='FPGA laboratories', keywords=['fpga', 'electronics', 'image processing'], max_time=300, resources={'FPGA-1'}, image='http://10.30.200.157/labfiles/Logos/EduPow_CX.jpg', features={'feature1', 'feature2'})}
+OrderedDict([('de', 'Deutsch'), ('en', 'English'), ('es', 'Español'), ('uk', 'Українська')])
+{'C_X': Laboratory(identifier='C_X', display_name='Cyclone 10 Lab', description='Access an FPGA board with a Cyclone 10 FPGA for image processing', category='FPGA laboratories', keywords=['fpga', 'electronics', 'image processing'], max_time=300, resources={'FPGA-1'}, image='http://10.30.200.157/labfiles/Logos/EduPow_CX.jpg', features={'feature1', 'feature2'})}
+OrderedDict([('de', 'Deutsch'), ('en', 'English'), ('es', 'Español'), ('uk', 'Українська')])
+OrderedDict([('de', 'Deutsch'), ('en', 'English'), ('es', 'Español'), ('uk', 'Українська')])
+{'C_X': Laboratory(identifier='C_X', display_name='Cyclone 10 Lab', description='Access an FPGA board with a Cyclone 10 FPGA for image processing', category='FPGA laboratories', keywords=['fpga', 'electronics', 'image processing'], max_time=300, resources={'FPGA-1'}, image='http://10.30.200.157/labfiles/Logos/EduPow_CX.jpg', features={'feature1', 'feature2'})}
+{'C_X': Laboratory(identifier='C_X', display_name='Cyclone 10 Lab', description='Access an FPGA board with a Cyclone 10 FPGA for image processing', category='FPGA laboratories', keywords=['fpga', 'electronics', 'image processing'], max_time=300, resources={'FPGA-1'}, image='http://10.30.200.157/labfiles/Logos/EduPow_CX.jpg', features={'feature1', 'feature2'})}
+{'C_X': Laboratory(identifier='C_X', display_name='Cyclone 10 Lab', description='Access an FPGA board with a Cyclone 10 FPGA for image processing', category='FPGA laboratories', keywords=['fpga', 'electronics', 'image processing'], max_time=300, resources={'FPGA-1'}, image='http://10.30.200.157/labfiles/Logos/EduPow_CX.jpg', features={'feature1', 'feature2'})}
+{'C_X': Laboratory(identifier='C_X', display_name='Cyclone 10 Lab', description='Access an FPGA board with a Cyclone 10 FPGA for image processing', category='FPGA laboratories', keywords=['fpga', 'electronics', 'image processing'], max_time=300, resources={'FPGA-1'}, image='http://10.30.200.157/labfiles/Logos/EduPow_CX.jpg', features={'feature1', 'feature2'})}
+OrderedDict([('de', 'Deutsch'), ('en', 'English'), ('es', 'Español'), ('uk', 'Українська')])
+OrderedDict([('de', 'Deutsch'), ('en', 'English'), ('es', 'Español'), ('uk', 'Українська')])
+OrderedDict([('de', 'Deutsch'), ('en', 'English'), ('es', 'Español'), ('uk', 'Українська')])
