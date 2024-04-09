@@ -262,8 +262,10 @@ function program_notify() {
       document.getElementById('img_file_div').appendChild(input);
   }
 
-  function sw0_on() {
-      weblab.sendCommand("sw0_on")
+  function sw0on() {
+      $.post(SW0_ON_URL, {
+        csrf: CSRF
+      })
       .done(function(response) {
           if (fpga_prog){
               if (update_image){
@@ -279,8 +281,10 @@ function program_notify() {
       });
   }
 
-  function sw0_off() {
-      weblab.sendCommand("sw0_off")
+  function sw0off() {
+      $.post(SW0_OFF_URL, {
+        csrf: CSRF
+      })
       .done(function(response) {
           if (fpga_prog){
               if (update_image){
@@ -296,8 +300,10 @@ function program_notify() {
       });
   }
 
-  function sw1_on() {
-      weblab.sendCommand("sw1_on")
+  function sw1on() {
+    $.post(SW1_ON_URL, {
+        csrf: CSRF
+      })
       .done(function(response) {
           if (fpga_prog){
               if (update_image){
@@ -313,8 +319,10 @@ function program_notify() {
       });
   }
 
-  function sw1_off() {
-      weblab.sendCommand("sw1_off")
+  function sw1off() {
+    $.post(SW1_OFF_URL, {
+        csrf: CSRF
+      })
       .done(function(response) {
           if (fpga_prog){
               if (update_image){
@@ -330,8 +338,10 @@ function program_notify() {
       });
   }
 
-  function sw2_on() {
-      weblab.sendCommand("sw2_on")
+  function sw2on() {
+    $.post(SW2_ON_URL, {
+        csrf: CSRF
+      })
       .done(function(response) {
           if (fpga_prog){
               if (update_image){
@@ -347,8 +357,10 @@ function program_notify() {
       });
   }
 
-  function sw2_off() {
-      weblab.sendCommand("sw2_off")
+  function sw2off() {
+    $.post(SW2_OFF_URL, {
+        csrf: CSRF
+      })
       .done(function(response) {
           if (fpga_prog){
               if (update_image){
@@ -367,30 +379,30 @@ function program_notify() {
   function sw0() {
       var active = document.getElementById("myonoffswitch0").checked;
       if (active){
-          sw0_on();
+          sw0on();
       }
       else {
-          sw0_off();
+          sw0off();
       }
   }
 
   function sw1() {
       var active = document.getElementById("myonoffswitch1").checked;
       if (active){
-          sw1_on();
+          sw1on();
       }
       else {
-          sw1_off();
+          sw1off();
       }
   }
 
   function sw2() {
       var active = document.getElementById("myonoffswitch2").checked;
       if (active){
-          sw2_on();
+          sw2on();
       }
       else {
-          sw2_off();
+          sw2off();
       }
   }
 
