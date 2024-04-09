@@ -122,9 +122,9 @@
                                 <div class = "col-sm-4" style="text-align: center">
         
                                     <div class = "col-sm-6" style="text-align: right">
-                                        <p>enable_in(0) *</p>
-                                        <p>enable_in(1) *</p>
-                                        <p>enable_in(2) *</p>
+                                        <p>enable_in(0)</p>
+                                        <p>enable_in(1)</p>
+                                        <p>enable_in(2)</p>
                                     </div>
         
                                     <div class = "col-sm-6" style="text-align: left">
@@ -157,7 +157,7 @@
         
                                 <div class = "col-sm-4" style="text-align: right">
                                     <div class="timer" id="timer"></div>
-                                    <br><br>*currently inactive - coming soon
+                                    <br><br>
                                 </div>
         
                             </div>
@@ -206,6 +206,12 @@
         var IMG_LAST = "{{ url_for('.img_last') }}";
         var IMG_NEXT = "{{ url_for('.img_next') }}";
         var IMG_END = "{{ url_for('.img_end') }}";
+        var SW0_OFF_URL = "{{ url_for('.switch0_off') }}";
+        var SW0_ON_URL = "{{ url_for('.switch0_on') }}";
+        var SW1_OFF_URL = "{{ url_for('.switch1_off') }}";
+        var SW1_ON_URL = "{{ url_for('.switch1_on') }}";
+        var SW2_OFF_URL = "{{ url_for('.switch2_off') }}";
+        var SW2_ON_URL = "{{ url_for('.switch2_on') }}";
         var running = currentTime > 0;
     </script>
 
