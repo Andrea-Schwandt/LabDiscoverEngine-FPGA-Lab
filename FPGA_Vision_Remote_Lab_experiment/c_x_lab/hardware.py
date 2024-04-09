@@ -374,4 +374,101 @@ def image_end():
     time.sleep(1)
     #print 'received command from pi "%s"' % data
     sock.close()
-    return "command received %s" % data    
+    return "command received %s" % data 
+
+
+@weblab.task()
+def sw0_off():
+    # Create a TCP/IP socket
+    sock = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
+
+    # Connect the socket to the port where the server is listening
+    #print 'connecting to %s port %s' % config_exp.server_address
+    sock.connect(config_exp.server_address)
+    #print 'send command to pi "%s"' % command
+    sock.send(b"switch00")
+    data = sock.recv(8)
+    time.sleep(1)
+    #print 'received command from pi "%s"' % data
+    sock.close()
+    return "command received %s" % data
+
+@weblab.task()
+def sw0_on():
+    # Create a TCP/IP socket
+    sock = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
+
+    # Connect the socket to the port where the server is listening
+    #print 'connecting to %s port %s' % config_exp.server_address
+    sock.connect(config_exp.server_address)
+    #print 'send command to pi "%s"' % command
+    sock.send(b"switch01")
+    data = sock.recv(8)
+    time.sleep(1)
+    #print 'received command from pi "%s"' % data
+    sock.close()
+    return "command received %s" % data
+
+@weblab.task()
+def sw1_off():
+    # Create a TCP/IP socket
+    sock = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
+
+    # Connect the socket to the port where the server is listening
+    #print 'connecting to %s port %s' % config_exp.server_address
+    sock.connect(config_exp.server_address)
+    #print 'send command to pi "%s"' % command
+    sock.send(b"switch10")
+    data = sock.recv(8)
+    time.sleep(1)
+    #print 'received command from pi "%s"' % data
+    sock.close()
+    return "command received %s" % data
+
+@weblab.task()
+def sw1_on():
+    # Create a TCP/IP socket
+    sock = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
+
+    # Connect the socket to the port where the server is listening
+    #print 'connecting to %s port %s' % config_exp.server_address
+    sock.connect(config_exp.server_address)
+    #print 'send command to pi "%s"' % command
+    sock.send(b"switch11")
+    data = sock.recv(8)
+    time.sleep(1)
+    #print 'received command from pi "%s"' % data
+    sock.close()
+    return "command received %s" % data
+
+@weblab.task()
+def sw2_off():
+    # Create a TCP/IP socket
+    sock = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
+
+    # Connect the socket to the port where the server is listening
+    #print 'connecting to %s port %s' % config_exp.server_address
+    sock.connect(config_exp.server_address)
+    #print 'send command to pi "%s"' % command
+    sock.send(b"switch20")
+    data = sock.recv(8)
+    time.sleep(1)
+    #print 'received command from pi "%s"' % data
+    sock.close()
+    return "command received %s" % data
+
+@weblab.task()
+def sw2_on():
+    # Create a TCP/IP socket
+    sock = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
+
+    # Connect the socket to the port where the server is listening
+    #print 'connecting to %s port %s' % config_exp.server_address
+    sock.connect(config_exp.server_address)
+    #print 'send command to pi "%s"' % command
+    sock.send(b"switch21")
+    data = sock.recv(8)
+    time.sleep(1)
+    #print 'received command from pi "%s"' % data
+    sock.close()
+    return "command received %s" % data   

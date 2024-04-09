@@ -6,7 +6,7 @@ from flask import Flask, Blueprint, url_for, render_template, jsonify, session, 
 from werkzeug.utils import secure_filename
 
 from c_x_lab import weblab
-from c_x_lab.hardware import gen_frames, program_device, program_invert, program_filter, program_edge, measure, image_home, image_last, image_next, image_end
+from c_x_lab.hardware import gen_frames, program_device, program_invert, program_filter, program_edge, measure, image_home, image_last, image_next, image_end, sw0_off, sw0_on, sw1_off, sw1_on, sw2_off, sw2_on
 
 from labdiscoverylib import requires_active, requires_login, weblab_user, logout
 
@@ -160,6 +160,41 @@ def img_end():
     message = image_end()
     return message
 
+@main_blueprint.route('/sw0_off', methods=['POST'])
+@requires_active
+def switch0_off():
+    message = sw0_off()
+    return message
+
+@main_blueprint.route('/sw0_on', methods=['POST'])
+@requires_active
+def switch0_on():
+    message = sw0_on()
+    return message
+
+@main_blueprint.route('/sw1_off', methods=['POST'])
+@requires_active
+def switch1_off():
+    message = sw1_off()
+    return message
+
+@main_blueprint.route('/sw1_on', methods=['POST'])
+@requires_active
+def switch1_on():
+    message = sw1_on()
+    return message
+
+@main_blueprint.route('/sw2_off', methods=['POST'])
+@requires_active
+def switch2_off():
+    message = sw2_off()
+    return message
+
+@main_blueprint.route('/sw2_on', methods=['POST'])
+@requires_active
+def switch2_on():
+    message = sw2_on()
+    return message
 
 #######################################################
 #
